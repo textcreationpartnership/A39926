@@ -1,0 +1,648 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of catechizing thought fit for affinity of subject to be annexed to this treatise of the (Practicall use of infant-baptisme) / by the same authour.</title>
+            <author>Ford, Simon, 1619?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39926</idno>
+            <idno type="STC">Wing F1501</idno>
+            <idno type="STC">ESTC R209608</idno>
+            <idno type="EEBO-CITATION">12690834</idno>
+            <idno type="OCLC">ocm 12690834</idno>
+            <idno type="VID">65841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 354:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of catechizing thought fit for affinity of subject to be annexed to this treatise of the (Practicall use of infant-baptisme) / by the same authour.</title>
+                  <author>Ford, Simon, 1619?-1699.</author>
+               </titleStmt>
+               <extent>[14], 40, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Rothwel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: Simon Ford.</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechetics (Canon law) --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65841:1"/>
+            <pb facs="tcp:65841:1"/>
+            <p>A SERMON OF <hi>CATECHIZING;</hi> THOUGHT FIT For affinity of ſubject to be annexed to this Treatiſe of the [Practicall uſe of <hi>INFANT-BAPTISME.</hi>]</p>
+            <p>By the ſame Authour.</p>
+            <q>
+               <bibl>Lutherus ſe profeſſus eſt <hi>Diſcipulum Catechiſmi.</hi>
+               </bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>
+                  <hi>Clem. Alex. Paedag.</hi>
+               </bibl>
+            </q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Rothwel.</hi> 1655.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65841:2"/>
+            <pb facs="tcp:65841:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou art here preſented with a Sermon tending to revive an <hi>Ordinance of God,</hi> almoſt grown out of date, what through the neglect of <hi>parents</hi> in private, and <hi>Miniſters</hi> and <hi>Magiſtrates</hi> in publick; and that in ſome places ſo far, that it is the great hinderance of thoſe that <hi>doe</hi> practiſe it, to be prejudiced by the ex<g ref="char:EOLhyphen"/>ample of thoſe that <hi>doe not;</hi> ſome children being apt to plead the liberty that others have, and count it an injury if they enjoy not the ſame: though it be the <hi>ſad</hi> liberty of <hi>dying without inſtruction.</hi> And this neglect is ſo much the more ſad, becauſe it is ſo viſible a <hi>compliance</hi> with the <hi>errone<g ref="char:EOLhyphen"/>ous</hi>
+               <pb facs="tcp:65841:3"/> and <hi>heretical generation</hi> of this pre<g ref="char:EOLhyphen"/>ſent Age, who firſt decryed it in theſe dayes of ſinful liberty; as knowing how far ſuch an omiſſion would be friend them. Thence thouſands of people, ſeaſoned with <hi>no</hi> prin<g ref="char:EOLhyphen"/>ciples, become eaſily infected with <hi>theirs.</hi> Multitudes of Apoſtates, concerning whom all the good we can ſay, is, that they <hi>ſpeak evil of the things they know not, and</hi>
+               <note place="margin">2 Pet. 2. 2</note> 
+               <hi>turn away from the holy Commande<g ref="char:EOLhyphen"/>ment,</hi> without the ſad aggravation of <hi>ha<g ref="char:EOLhyphen"/>ving known the way of righteouſneſs.</hi> However it is a grievous thing that multi<g ref="char:EOLhyphen"/>tudes ſhould daily (through ignorance and errour) go blindfold to Hell, and few men take any pains to lend them their helping hand to keep them from that ſad doom of <hi>periſhing for want of knowledge.</hi> If it be ſaid, <hi>This is done by conſtant Preaching;</hi> I anſwer, ſurely a man may Preach long enough to hundreds in the Congregation (if his Congregation be of any largeneſſe extraordinary) who will not be able to give any accompt of one ſentence they hear, if they live an hundred years un<g ref="char:EOLhyphen"/>der the Ordinance: which will not appear improbable, if we conſider, that <hi>many</hi> come to Church meerly for <hi>faſhion,</hi> and take no notice of any thing there, but <hi>gaze</hi> upon
+<pb facs="tcp:65841:3"/> this, and that <hi>object;</hi> that <hi>others</hi> are dull of apprehenſion, and their underſtandings, in a continued diſcourſe, are like a troubled water, wherein one ring or circle drives out another; and laſtly, that <hi>all generally,</hi> ex<g ref="char:EOLhyphen"/>cept they be catechized, or extraordinarily furniſhed with parts beyond their neighbors, find it an hard matter to underſtand the very common terms, in which Preachers muſt expreſſe themſelves, and many times loſe a whole Sermon for want of underſtanding, or miſ-underſtanding of them; For though a Miniſter thinks he expreſſeth himſelf very plain, yet it is almoſt incredible what ſtrange conceits moſt ignorant people have of com<g ref="char:EOLhyphen"/>mon notions. We that are Miniſters of the Goſpel may eaſily gueſſe at the profoundneſſe of their ignorance, by our own groſſe imagi<g ref="char:EOLhyphen"/>nations (worſe then <hi>Nicodemus</hi> his of <hi>Regeneration</hi>) when we were children, al<g ref="char:EOLhyphen"/>though we had the advantage of education beyond them; what <hi>abſurd apprehenſi<g ref="char:EOLhyphen"/>ons</hi> we had concerning the greateſt and weightieſt points of Religion. And I am ſure moſt of our hearers are not arrived (nor ever do to their dying day arrive) unto the underſtanding of a child of twelve or four<g ref="char:EOLhyphen"/>teen years old, bred under means of <hi>Lite<g ref="char:EOLhyphen"/>rature.</hi> Many of our <hi>words,</hi> and <hi>expreſ<g ref="char:EOLhyphen"/>ſions</hi>
+               <pb facs="tcp:65841:4"/> in our Sermons (do what we can) are <hi>Metaphorical</hi> and <hi>Equivocal;</hi> or, if <hi>proper,</hi> yet (according to the preſent <hi>im<g ref="char:EOLhyphen"/>provement of the Engliſh Tongue,</hi> which a Miniſter that hath been bred a Scholar cannot poſſibly but have ſome ſmatch of) we have many <hi>forreign</hi> words, made <hi>denizons</hi> of our language, which being grown familiar to us, we are apt to uſe, and with a general charity to all our peoples un<g ref="char:EOLhyphen"/>derſtandings, conceive they ſtumble them no more then they doe us, whiles yet we are <hi>to them Barbarians</hi> (do what we can many times) even in our own <hi>Mother Tongue.</hi> In a word, conſider that no Miniſter in his Preaching, let him be never ſo full, and plain, and methodical, can poſſibly, caſt all the heads of Divinity, <hi>the form of ſound words,</hi> into ſo narrow a compaſſe (conſi<g ref="char:EOLhyphen"/>dering the time that he muſt take up in (the principal part of Preaching) <hi>Application;</hi> but that to go through them in that way, will require a competent number of years, for a man that is but indifferently full of mat<g ref="char:EOLhyphen"/>ter, though he forbear all unneceſſary en<g ref="char:EOLhyphen"/>largements. And (in this way) before an hearer can be throughly acquainted with a <hi>ſyſteme of Divinity,</hi> to know what he <hi>ſhould doe,</hi> the greateſt part of his <hi>doing
+<pb facs="tcp:65841:4"/> time</hi> will be over. Beſides, to ſuch a way of principling men, by the tedious method be<g ref="char:EOLhyphen"/>fore ſpoken of, we muſt ſuppoſe each hearer to be able to accompany a Preacher with an <hi>underſtanding</hi> and <hi>memory,</hi> ſutable to his daily progreſſe from <hi>point</hi> to <hi>point,</hi> and to be every Lords day preſent; otherwiſe what he loſeth, (either through abſence or weakneſſe of apprehenſion and memory) at one time, will make ſuch a wide gap and breach in the reſt of notions, that he is ren<g ref="char:EOLhyphen"/>dred uncapable of underſtanding, and im<g ref="char:EOLhyphen"/>proving many <hi>other</hi> points, to which the knowledge of <hi>that</hi> or <hi>thoſe</hi> wherein he ſo fails, neceſſarily leads. I might adde here the uſuall conſinement of many practicall Preachers, by the inclination of their <hi>own ſpirits,</hi> or the ſecret determination of <hi>Gods Spirit,</hi> to ſuch a <hi>ſeries</hi> of Truths, as tends moſt to ſome end which they are moſt fitted to purſue; the main ſtream of <hi>one</hi> Miniſters labours running in the channel of <hi>convincing</hi> Truths. <hi>Anothers</hi> labours are moſt directed to work upon the hearts of ſinners for <hi>converſion; anothers</hi> to ap<g ref="char:EOLhyphen"/>ply cordials to the hearts of Saints for <hi>con<g ref="char:EOLhyphen"/>ſolation; another</hi> ſtudies, and Preacheth for the moſt part in a Theological determi<g ref="char:EOLhyphen"/>nation of <hi>Caſes</hi> of <hi>Conſcience,</hi> and moſt
+<pb facs="tcp:65841:5"/> of the ſtrength of their labours, is ſpent in thoſe reſpective wayes, to which their ſtudies moſt bend. Now, how ſhall an hearer from ſuch a mans Preaching, if he wait only on his Miniſtery, be rendred (as he ſhould be) <hi>throughly furniſhed for every good work?</hi> Theſe things I have (in brief) pre<g ref="char:EOLhyphen"/>ſented to ſuch of my <hi>reverend Fathers and Brethren,</hi> as (among other Readers) ſhall think any thing of mine worthy their con<g ref="char:EOLhyphen"/>deſcenſion to look upon it; concerning <hi>hun<g ref="char:EOLhyphen"/>dreds</hi> of whom in this Land, I ingenuouſly and from my heart acknowledge, that I am not worthy to <hi>carry their Books after them;</hi> and therefore confeſſe my ſelf too weak to adviſe them. Only, for the glory of God, and the ſalvation of poor ſouls, and (in the preſent courſe which they are to run in this erroneous and ſeducing generation) for their grounding, and ſettling upon neceſſary foundations of faith and godlineſſe; I think my ſelf bound to be a remembrancer unto ſuch of <hi>our Miniſtery,</hi> as have too much (of late) neglected this Ordinance of God; and eſpecially to thoſe who are of the judgement of <hi>Infant-Baptiſme,</hi> who can<g ref="char:EOLhyphen"/>not but know that the very admiſſion of <hi>In<g ref="char:EOLhyphen"/>fants</hi> as <hi>Church-members</hi> by <hi>Baptiſme,</hi> renders the whole <hi>Church,</hi> and themſelves
+<pb facs="tcp:65841:5"/> principally (as <hi>Officers</hi> thereof) indebted to them for their education. <hi>Men, Fathers,</hi> and <hi>Brethren,</hi> I beſeech you bear with a few affectionate expoſtulations with you, on the behalf of the moſt <hi>innocent,</hi> moſt <hi>hopeful,</hi> moſt <hi>teachable</hi> part of your Congregations, thoſe I mean, of the <hi>yon<g ref="char:EOLhyphen"/>ger ſort.</hi> It may be they are yet, (for the moſt part) <hi>diſ-engaged</hi> in their affections: Did they underſtand grace, and Chriſt, and Religion, theſe might <hi>prepoſſeſſe</hi> them, and gain their <hi>firſt love.</hi> You may preach out your lungs and heart to them, when they are ſet upon their ſinful way, and <hi>march<g ref="char:EOLhyphen"/>ing furiouſly</hi> in it like ſo many <hi>Jehu's,</hi> or <hi>ſettled upon their lees.</hi> When their luſts have gotten the protection of a rivetted ig<g ref="char:EOLhyphen"/>norance, and it may be poſſeſſed them with a deſire of continuing in it.</p>
+            <p>Surely (me thinks) you ſhould leave your young <hi>candidates of holineſſe,</hi> whom you have waſhed in <hi>Baptiſmall water,</hi> pleading with you thus:</p>
+            <p>Sirs, <hi>by your Miniſtery, we are devo<g ref="char:EOLhyphen"/>ted to the ſervice of one God, in a glo<g ref="char:EOLhyphen"/>rious Trinity of perſons. How ſhall we ſerve him whom we know not? Think you, we can ever own it for a mercy, or a priviledge, to be admitted into a Co<g ref="char:EOLhyphen"/>venant,
+<pb facs="tcp:65841:6"/> which we underſtand not? And will it not be the greateſt tempta<g ref="char:EOLhyphen"/>tion to us, to renounce that Ordinance, becauſe we cannot tell what good it doth to us? Our preſent Age, renders us waxy and ductile, eaſily moulded into any form. Why do you not fore<g ref="char:EOLhyphen"/>ſtall the market of Satan and Seducers, by prepoſſeſſing us for God? Why are we dedicated to God in our Infant-age, if not to engage us to be his betime? And how can we be ſo, except we give our ſelves a ſacrifice voluntarily, as once we were offered by our parents: And how can we offer our ſelves a ſa<g ref="char:EOLhyphen"/>crifice, but in a reaſonable ſervice,</hi> Rom. 12. 1? <hi>Did you then only admit us to the empty name of Chriſtians, and Church-members, that we might af<g ref="char:EOLhyphen"/>terwards (for want of knowledge, of our duty) live and dye the veryer Heathens? You preach truth, and we hear it, but our bottles are too narrow mouth'd, to take in ſo much at once; nay, ſo great a ſtream ſtriving for ad<g ref="char:EOLhyphen"/>miſſion at once, cauſeth all to run be<g ref="char:EOLhyphen"/>ſide. You preach to work upon our Conſciences, but work upon our un<g ref="char:EOLhyphen"/>derſtandings firſt, and deal with us ac<g ref="char:EOLhyphen"/>cording
+<pb facs="tcp:65841:6"/> to our capacities. Give us milk as babes, and that will ſtrengthen our ſtomachs to digeſt ſtronger meat in time. Our parents, (many of them, moſt of them) are ignorant, or careleſs of the performance of ſo neceſſary a duty. We are therefore devolved upon you, as our ſpiritual Fathers. Let it not ſeem much to you to deſcend beneath your ſelves, &amp; the heights of your learned Na<g ref="char:EOLhyphen"/>tions &amp; high ſpeculations, to liſp princi<g ref="char:EOLhyphen"/>ples a little with your babes in Chriſt; The great Apoſtle did ſo, and was never the leſſe for it. And it will be no whit to your diſcomfort at the laſt day, that you have denyed your greateſt excellency, which makes you taller by the head and ſhoulders then other men, for the glory of Chriſt, and the ſalvation of ſouls, by becoming all things to all perſons, and ages, that you might win ſome.</hi>
+            </p>
+            <p>Dear and honoured <hi>Sirs,</hi> what ſhall any of us reply to ſo rational a plea? Yea, how much ſhall we come ſhort of our duty, if we do not grant it, and act accordingly? If we be <hi>Shepherds,</hi> like <hi>Chriſt the great Shepherd,</hi> we muſt <hi>carry the Lambs in our boſome,</hi> as well as <hi>drive</hi> the <hi>elder ſheep before us.</hi> If we be Fathers indeed,
+<pb facs="tcp:65841:7"/> we muſt teach our children to goe by <hi>the formes,</hi> and <hi>walls,</hi> and <hi>goe-cart,</hi> who cannot goe alone, till they gather skill and ſtrength enough to dee ſo. For my part, I had not made ſo bold with you, but upon a principle (I hope) of <hi>ſelf-denial,</hi> chuſing ra<g ref="char:EOLhyphen"/>ther to adventure the cenſure of my reverend <hi>Fathers</hi> and <hi>elder brethren,</hi> then to ſuffer the ſonls of ſo many of my <hi>younger bre<g ref="char:EOLhyphen"/>thren and ſiſters</hi> in the Lord, as are daily born into the Church by Baptiſme, to be ſtar<g ref="char:EOLhyphen"/>ved at nurſe for want of milk. As for the means of redreſſing theſe ſad miſchiefs, I know none like the conſcionable practiſe of Catechizing, fortified with the <hi>Magiſtrates</hi> concurrence, to command both the Miniſtry to do their duty therein, and all Parents and Maſters to preſent their children and ſer<g ref="char:EOLhyphen"/>vants under ſome ſevere penalty thereunto. For truly the <hi>Miniſters</hi> are not altogether to blame in this thing. Many of them would do more in it, could they prevail with their people to put to their helping hands: but this is many times the lot of induſtrious Mini<g ref="char:EOLhyphen"/>ſters, they would Catechize willingly, but that they can prevail with very few to be milling to be Catechized. <hi>Is there no balm in Gilead?</hi> no power in the Magiſtrates hand to heal this evil diſeaſe of ſpiritual
+<pb facs="tcp:65841:7"/> ſloth and careleſneſſe of attending upon pub<g ref="char:EOLhyphen"/>lick Ordinances? <hi>Honourable Patriots!</hi> we deſire not you ſhould for the conſciences of any to conſent to what it ſees not ground for from the Scriptures; but we deſire, you ſhould bring them where they may be infor<g ref="char:EOLhyphen"/>med, and then let God work. We would teach them their duty to <hi>you,</hi> together with their duty to <hi>God,</hi> as well, and (I hope bet<g ref="char:EOLhyphen"/>ter then thoſe <hi>private</hi> Teachers, whom they have yet (by a <hi>publick allowance</hi>) li<g ref="char:EOLhyphen"/>berty to follow; we act in the face of the Sun, we infuſe no principles in corners, but what we preach publickly; you know our do<g ref="char:EOLhyphen"/>ctrine and our converſation. Do the <hi>level<g ref="char:EOLhyphen"/>ling Anti-Magiſtratical</hi> doctrines that fly all abroad about the Land flow from <hi>our</hi> Congregations or <hi>theirs?</hi> Is it not ſafer to have children principled by <hi>us</hi> in a <hi>pub<g ref="char:EOLhyphen"/>lick way,</hi> by <hi>Catechiſmes appointed by Authority,</hi> then by <hi>others</hi> in <hi>private,</hi> who (ſome of them) teach either the <hi>Raccovian,</hi> or the <hi>Munſterian</hi> principles, or (which are worſe then both) the horrid <hi>Gallimaufrey</hi> of Errours and Hereſies, raked up out of all the kennels and dunghils of the former and preſent Ages, lately penned, and Printed by <hi>John Bidle.</hi> For my part, I think <hi>pub<g ref="char:EOLhyphen"/>lick Catechizing,</hi> yields the greateſt ſecu<g ref="char:EOLhyphen"/>rity
+<pb facs="tcp:65841:8"/> to the Magiſtrate that can be, of his <hi>ſubjects,</hi> eſpecially the very prime, and cream of them, the <hi>youth;</hi> who if they be poiſoned by ſuch principles as dare not abide the light, may create unknown dangers to him, when he thinks himſelf moſt ſecure. And I think, that was the Politique ground of that project (ſome years ſince) of ta<g ref="char:EOLhyphen"/>king the children of <hi>Papiſts</hi> out of their hands, and giving them <hi>Proteſtant</hi> edu<g ref="char:EOLhyphen"/>cation.</p>
+            <p>The Lord in his time convince us all of our duty, and quicken us to it: that we may by laying the ſound <hi>grounds</hi> of Religion in the youth of theſe Nations, provide for the maintenance of Truth and Holineſſe in ſuc<g ref="char:EOLhyphen"/>ceeding generations. Mean while I have done my endeavour to the furtherance of this work, and (I hope) removed all rational impediments thereunto, in the following Sermon; which I leave in thy hands, <hi>Chri<g ref="char:EOLhyphen"/>ſtian Reader,</hi> wiſhing it may work upon thee whoever thou art in thy capacity, to yield a ready aſſiſtance to the furtherance of ſo eminently uſeful an Ordinance. <hi>Vale &amp; fruere.</hi>
+            </p>
+            <closer>
+               <dateline>From my ſtudy at <hi>Reading,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 25. 1654.</date>
+               </dateline>
+               <signed>Thy affectionate friend, and ſervant in the Goſpel. SIMON FORD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65841:8"/>
+            <head>A SERMON OF <hi>CATECHIZING.</hi>
+            </head>
+            <epigraph>
+               <bibl>PROV. 22. v. 6.</bibl>
+               <q>Train up [<hi>or Catechize</hi>] a child in the way he ſhould goe; and when he is old he <hi>will not</hi> depart from it.</q>
+            </epigraph>
+            <p>The Ordinance of <hi>Catechizing</hi> or grounding children in the <hi>principles</hi> of Chriſtian Religion, hath been ſo conſtant a cuſtome in all Ages and Churches, that none ever profeſſedly ſet himſelf againſt it, but thoſe that made it their buſineſs to promote <hi>ignorance,</hi> and (by means thereof) to propagate <hi>Atheiſm,</hi> or <hi>Hereſie.</hi> And as for ſuch perſons, we need not wonder, that they
+<pb n="2" facs="tcp:65841:9"/> engage themſelves ſo hotly againſt it, if wee conſider, how great a means it is, both by way of <hi>Antidote,</hi> to prevent, and by way of <hi>medicine,</hi> to cure thoſe <hi>Aegyptian botches,</hi> whereever it is uſed as it ought to be. As for <hi>Atheiſme;</hi> it is either <hi>notional,</hi> or <hi>practical.</hi> It is doubted a<g ref="char:EOLhyphen"/>mong learned men, whether ever there were a<g ref="char:EOLhyphen"/>ny of the <hi>former</hi> ſort of Atheiſts in the world. But if ever there were any, whoſe heart in ear<g ref="char:EOLhyphen"/>neſt told him, there is no God, I dare confident<g ref="char:EOLhyphen"/>ly aſſirm, his tender years were not ſeaſoned with the contrary truths, the knowledge of the nature, attributes, and ſervice of him. And for <hi>practical</hi> Atheiſm, 'tis next to impoſſible, that without grievous <hi>reluctancies</hi> of conſcience, and mighty <hi>ſtruglings</hi> of a convinced judgement, any man ſhould with an high hand continue in ſuch Atheiſtical courſes as proclaim to the world that the fear of God is not before his eyes, who hath from his infancy been inſtructed in the princi<g ref="char:EOLhyphen"/>ples of faith and godlineſſe. And laſtly, the preſent ſpreading of damnable <hi>bereſies,</hi> (being a diſeaſe that runs moſtly among ignorant and unprincipled perſons) plainly evinceth that the cure of that <hi>gangrene</hi> muſt be by the contrary, that is, gro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ding them in the knowledge of the principles of Religion; that being the moſt proper Antidote againſt that infection which ſpreads moſt in dark corners, to follow it with the diſcovering light of foundation-truths. No wonder then if when Satan endeavours (upon ſuch deſignes) to beat down this <hi>Ordinance,</hi> the faithful Miniſters of Chriſt in all Ages, have perpetually made uſe of it as their ſtrongeſt bul<g ref="char:EOLhyphen"/>wark
+<pb n="3" facs="tcp:65841:9"/> againſt his batteries; and laboured to ſe<g ref="char:EOLhyphen"/>cure the truths of God by an holy prepoſſeſſion of the hearts of young ones. With the ſacred <hi>Magazine</hi> of <hi>Fundamental Principles,</hi> from whence, upon all aſſaults, they may be able to fetch a <hi>ſcripium eſt,</hi> for offence and defence, as becomes diſciplined and <hi>trained ſouldiers</hi> of Je<g ref="char:EOLhyphen"/>ſus Chriſt. Thence in the <hi>Primitive</hi> times (as all Hiſtories of that time inform us) there were <hi>two Regiments</hi> of theſe trained ſouldiers in the Church, who were all called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Catechiſed.</hi>
+            </p>
+            <p>1. <hi>Some of age,</hi> who being converted from <hi>Iudaiſme</hi> or <hi>Gentiliſme,</hi> to Chriſtianity, were before Baptiſme throughly tried in their know<g ref="char:EOLhyphen"/>ledge of that Religion which they undertook to proſeſſe, leſt they ſhould eaſily afterwards be drawn to apoſtatize from that God whom they <hi>ignorantly worſhipped.</hi> Thence it is the judge<g ref="char:EOLhyphen"/>ment<note place="margin">
+                  <g ref="char:V">Ʋ</g>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſinus Catech: Kuchſinus</note> of able Divines, that the account that was taken of theſe perſons, was called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Heb.6.2. <hi>the doctrine of Baptiſmes,</hi> which contained ſuch heads of Chriſts Religion, as were neceſſary to be known by perſons of Age in order to Baptiſme, eſpecially of the nature of Sacraments,&amp;c.</p>
+            <p>2. <hi>Some little children,</hi> who being born of Chriſtian parents, were firſt admitted to <hi>Bap<g ref="char:EOLhyphen"/>tiſme,</hi> &amp;as they grew in years, catechized in or<g ref="char:EOLhyphen"/>der to the receiving of the <hi>Lords Supper;</hi> to which they were not admitted whiles they were <hi>Cate<g ref="char:EOLhyphen"/>chumeni, i. e.</hi> till they were (upon giving an account of their knowledge) as it were diſ<g ref="char:EOLhyphen"/>charged from that ſervice by the <hi>laying on of
+<pb n="4" facs="tcp:65841:10"/> bands.</hi> And therfore the ſame Divines (before noted) conceive that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the doctrine of laying on of hands, Heb.</hi> 6. 1, 2. de<g ref="char:EOLhyphen"/>notes the Catechiſme wherein they were exa<g ref="char:EOLhyphen"/>mined, who by that ceremony were admitted to that higheſt part of Church-fellowſhip, the communion of the <hi>Lords Supper.</hi>
+            </p>
+            <p>Now theſe two Regiments were ſo cloſely followed by their Catechiſts, that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as in divers Churches it was a peculiar <hi>office</hi> to be a <hi>Catechiſt,</hi> and ſo <hi>Clement, Origen,</hi> and <hi>Cyril,</hi> were ſucceſ<g ref="char:EOLhyphen"/>ſively Catechizers of the young ones in the fa<g ref="char:EOLhyphen"/>mous Church of <hi>Alex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> ſo their progreſs was exceeding remarkable, inſomuch as a lear<g ref="char:EOLhyphen"/>ned Papiſt [<hi>Gallenius in Catech:</hi>] confeſſeth to the ſhame of their Church, that no convert was admitted <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to <hi>Baptiſme,</hi> (which the Fathers called <hi>Enlightning,</hi> from the <hi>Syriack</hi> Interpreter, who <hi>Heb.</hi> 6. interprets <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, [<hi>enlightn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d baptizat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s (baptized) qui non penè m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri rerum Christianrum luce peritiaque praeditus eſſet, quàm in noſtris (non dicam</hi> (ſaith he) <hi>vul<g ref="char:EOLhyphen"/>garibus Chriſtianis) ſed &amp; (quod pudendum eſt) ſacerdotibus multis deprebendimus, i. e.</hi> none but <hi>ſuch</hi> an one as for knowledge in the principles of Chriſtian Religion, went <hi>beyond many a Ro<g ref="char:EOLhyphen"/>miſh Prieſt.</hi> Inſomuch, that <hi>Ambroſe</hi> was thought fit in the preſent exigence of the Church of <hi>Millain,</hi> to be taken out of the Catechiſts form and made a <hi>Biſhop;</hi> And <hi>Auguſtine,</hi> whiles he was yet <hi>Catechized,</hi> wrote divers learned books, before his <hi>Baptiſme,</hi> as <hi>
+                  <g ref="char:V">Ʋ</g>rſin</hi> reports. Oh friends, that the pride of peoples hearts in theſe days, ſhould make them as ſoon they are gotten
+<pb n="5" facs="tcp:65841:10"/> into the <hi>teens,</hi> (as we ſay) to think they are too old or too great to be Catechized! Truly I fear ſuch perſons will prove too old or too great to be good, ſeeing they turn their backs upon ſo excellent a means of knowledge and grace as this is, whereunto both <hi>Solomon</hi> the wiſeſt of men, and the moſt glorious of Kings, (and that upon his own experience) and the <hi>Spirit of God</hi> by him, give ſo honourable a teſtimony for its uſefulneſſe, as in the words which I have read to you.</p>
+            <q>Train up a child, &amp;<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</q>
+            <p>In the words there is obſervable,</p>
+            <list>
+               <item>1. The <hi>duty</hi> enjoyned, wherein
+<list>
+                     <item>1. Something <hi>implied,</hi> the perſon who is to doe.</item>
+                     <item>2. Somewhat <hi>expreſt,</hi> viz.
+<list>
+                           <item>1. The <hi>nature</hi> of the act commanded, <hi>Train up.</hi>
+                           </item>
+                           <item>2. The <hi>object</hi> of it, and that is double;
+<list>
+                                 <item>1. <hi>Cui,</hi> the perſon to be inſtructed, <hi>a child.</hi>
+                                 </item>
+                                 <item>2. <hi>Quod,</hi> the thing whereabout this act is exerciſed, <hi>the way in which be ſhould go.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>2. The <hi>motive</hi> annexed, wherein
+<list>
+                     <item>1. The <hi>benefit</hi> attained thereby, <hi>he will not depart.</hi>
+                     </item>
+                     <item>2. The <hi>duration</hi> of that benefit, <hi>when he is old.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p n="1">
+               <pb n="6" facs="tcp:65841:11"/>1. The <hi>perſons upon whom</hi> this duty lies, are implied in the <hi>perſons to whom</hi> it is to be perfor<g ref="char:EOLhyphen"/>med, <hi>viz.</hi> all ſuch as have the relation of a <hi>father</hi> to <hi>children,</hi> and ſo it implies not only <hi>natural</hi> pa<g ref="char:EOLhyphen"/>rents, but <hi>Civil</hi> and <hi>Eccleſiaſtical</hi> alſo, as <hi>School<g ref="char:EOLhyphen"/>maſtcrs, Tutors, Magiſtrates,</hi> and <hi>Miniſters;</hi> the care of all ſuch, is in theſe words required, for the <hi>training up a child in his way;</hi> The <hi>Magi<g ref="char:EOLhyphen"/>ſtrate</hi> muſt preſerve, and conſirm by his Autho<g ref="char:EOLhyphen"/>rity, a <hi>form of ſound words,</hi> in which they may be inſtructed; the reſt muſt in their places en<g ref="char:EOLhyphen"/>deavour to drop into them thoſe words, accor<g ref="char:EOLhyphen"/>ding as their age is capable of reception.</p>
+            <p n="2">2. Their <hi>duty</hi> is [<hi>training up,</hi>] or as we ren<g ref="char:EOLhyphen"/>der it in the Margin, <hi>Catechizing.</hi> The word is <hi>hanocb,</hi> and comes from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſignifies <hi>to enter,</hi> or <hi>inſtruct in the elements,</hi> or <hi>firſt principles of any employment or profeſſion,</hi> and ſo we render it <hi>training,</hi> which is the initiation of a <hi>ſouldier</hi> to his employment, by which he is fitted for ſervice. It ſignifies alſo <hi>dedicavit,</hi> or <hi>conſecravit,</hi> to <hi>conſecrate,</hi> or <hi>ſet apart,</hi> for an holy employ<g ref="char:EOLhyphen"/>ment: laſtly, <hi>imbuit,</hi> to <hi>ſeaſon,</hi> a veſſel, or <hi>dip</hi> a garment, in a colour that we would have it take; and ſo it is as if he ſaid, let a child be <hi>ſeaſoned</hi> in tender age with the <hi>liquour</hi> of ſaving knowledge, or let his ſoul be firſt <hi>died</hi> into the principles by which he ſhould walk; that his after-converſation may look of the colour of his firſt grounds.</p>
+            <p n="3">3. The <hi>objectum cui,</hi> or the perſon who is thus to be ſeaſoned, or principled, is [<hi>nagnar</hi>] which word is ſometimes taken for a perſon en<g ref="char:EOLhyphen"/>tred into that age which we call [<hi>youth</hi>] that
+<pb n="7" facs="tcp:65841:11"/> age that follows <hi>childhood</hi> (ſo <hi>Joſeph</hi> is called [<hi>nagnar</hi>] in <hi>Egypt, Gen.</hi> 41. 12. and <hi>Gideons</hi> ſon, <hi>Judges</hi> 8. 20.) and ſometimes for children <hi>abl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to go and ſpeak,</hi> as 2 <hi>Kings</hi> 2. 23. the children that mocked <hi>Eliſhae</hi> are called <hi>nagnarim;</hi> and laſtly, ſometimes and moſt frequently for chil<g ref="char:EOLhyphen"/>dren in an <hi>Infant-age,</hi> even as ſoon as they are <hi>ſbaken</hi> out of the mothers womb, ſeeing it comes from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>excuſſit,</hi> to <hi>ſbake off,</hi> or <hi>evacnate,</hi> &amp;c. And ſo it implies the condition of all perſons, who by their age are not confirmed or ſettled in their <hi>way,</hi> but are yet ductile and perſwaſible to chooſe their <hi>way;</hi> years of childhood and youth are our learning time, few <hi>old</hi> people, or ſuch as are at <hi>mans eſtatc,</hi> but have choſen their way, and are too well conceited of it, to admit of advice about it. And yet it may be that <hi>nag<g ref="char:EOLhyphen"/>nar, non aetate ſolùm, ſed &amp; judicio putrum ſigni<g ref="char:EOLhyphen"/>ficat,</hi> as ſaith <hi>Lavater.</hi>
+            </p>
+            <p n="4">4. The <hi>objectum quod,</hi> or the myſtery in which they are to be inſtructed, is [<hi>the way in which they ſhould goe</hi>] 'tis emphatical in the Original; 'tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſecundum os viae ſuae.</hi> Concer<g ref="char:EOLhyphen"/>ning which a Critick obſerveth, that it muſt be ſuch a teaching as the party is capable of, as Nurſes cut ſmall bits for little children. This is true, but perhaps too nice here; the words fignifie elſewhere <hi>juxta mandatum,</hi> as <hi>Numb. 3. 16 M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes</hi> is ſaid to number the children of <hi>Iſrael,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>according to the word of the Lord,</hi> or<note place="margin">Leigh Crit. Sacr.</note> (as the margin) <hi>according to the mouth of the Lord;</hi> ſo that this way muſt be <hi>via ſecundum os,</hi> the way of duty commanded by God, which is called a <hi>mans way, Pſ.</hi> 119. 1, &amp;c. <hi>The good way,
+<pb n="8" facs="tcp:65841:12"/> Jer. 6. 16. the way of underſtanding,</hi> Iſa. 40. 14. <hi>the way of life,</hi> Jer. 21. 8. <hi>the way of God,</hi> Mark 12. 14. <hi>the way of ſalvation,</hi> Acts 16. 27. &amp;c. <hi>Michael Cope</hi> in his Comment. reads, <hi>In the en<g ref="char:EOLhyphen"/>trance of way.</hi>
+            </p>
+            <p n="5">5. The <hi>benefit</hi> of this religious care in all Governours of youth, is expreſſed by way of a <hi>ſtrong probability,</hi> and implies thus much, that though it be not <hi>impoſſible,</hi> that a man who hath been well inſtructed in his <hi>youth,</hi> ſhould apoſta<g ref="char:EOLhyphen"/>tize, yet it is a moſt <hi>unlikely</hi> thing that ſuch a man <hi>will:</hi> nay, it imports a promiſe on Gods part, to bleſſe the means uſed conſcientiouſly to <hi>youth</hi> with conſtancy, and perſeverance in <hi>age,</hi> which ought to be a very great encouragement to parents to <hi>bring up their children in the nur<g ref="char:EOLhyphen"/>ture of the Lord;</hi> foraſmuch as even in this life they have this encouragement, that <hi>their labour ſhall not be in vsin in the Lord,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p n="6">6. <hi>When he is old,</hi> though he be <hi>ſenio confectus,</hi> a very infirm old man, when he hath a <hi>foot in the grave,</hi> for ſo the word often ſignifies: or, when his age hath made him honourable, when he is an <hi>elder or a Senatour,</hi> (as ſuch are called often <hi>ſenes,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and we tranſlate the word Senators, <hi>Pſal.</hi> 105. 22.) if he come to Authority, he will govern others as he himſelf was principled in youth; the way he was ſet in, in his younger years, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>non recedet, be will not recede from it;</hi> the word is alike, <hi>Pſal.</hi> 14. 3. [they are <hi>gone back, i. e.</hi> turned <hi>total A<g ref="char:EOLhyphen"/>poſtates</hi>] he ſhall not totally turn his back upon it, ſo as to take up a quite contrary courſe. He may poſſibly <hi>ſtop</hi> ont of that way, but he will
+<pb n="9" facs="tcp:65841:12"/> not <hi>ſet</hi> his <hi>back</hi> where his <hi>face</hi> was, and walk direct <hi>Antipocles</hi> to his former way. Hee may loſe much of his ſpirits poſſibly, but he will ſel<g ref="char:EOLhyphen"/>dome grow like <hi>dead drink,</hi> as the word is uſed, <hi>Hoſ.</hi> 4. 18. there will be ſome reliſh and ſavour in him to the laſt, of his firſt ſeaſoning.</p>
+            <p>The words without any ſqueezing, will af<g ref="char:EOLhyphen"/>ford us eaſie Obſervations.</p>
+            <p>
+               <hi>Doct. I.</hi> There is a way, wherein (even) children ought to goe.</p>
+            <p>
+               <hi>No age, not the youngeſt, is excuſed from its duties.</hi>
+            </p>
+            <p>
+               <hi>Doct. II.</hi> Thoſe who have the charge of their edu<g ref="char:EOLhyphen"/>cation, are bound to catechize or train them up in that way.</p>
+            <p>
+               <hi>Doct. III.</hi> Good principles which have ſeaſoned our younger years, wee ought to bee faithful and conſtant to in our age.</p>
+            <p>
+               <hi>Doct. IV.</hi> A well catechized and thorougbly grounded childhood, gives very likely hopes of faithfulneſſe, and conſtancy in old age.</p>
+            <p>I ſhall handle onely the <hi>ſecond</hi> at large; and improve all the reſt, according to the drift and intent of the Text, either by way of reaſon or motive, to the duty therein required.</p>
+            <p>Doct. <hi>It is a duty that indiſpenſahly lies on all thoſe who have charge of the education of children, to catechize, or train them up in the knowledge of that holy way of God, wherein they are to goe</hi>
+            </p>
+            <pb n="10" facs="tcp:65841:13"/>
+            <p>This I ſhall fit for Application by</p>
+            <list>
+               <item>1. Proper <hi>proofs.</hi>
+               </item>
+               <item>2. Pregnant <hi>preſidents.</hi>
+               </item>
+               <item>3. Demonſtrative <hi>arguments.</hi>
+               </item>
+            </list>
+            <p n="1">(1.) <hi>Proper proofs.</hi>
+            </p>
+            <p>
+               <hi>Deut.</hi> 6. 7. Is an evident and undeniable place, <hi>Theſe words ſhall be in thy heart, and thou ſhalt teach them diligently,</hi> or (as in the Hebrew) <hi>whet</hi> or <hi>ſharpen</hi> them <hi>unto thy children.</hi> That is, ſhalt ſrequently inculcate the ſame things, by way of Catechiſme, and ſhalt <hi>talk of them when thou ſit<g ref="char:EOLhyphen"/>seſt in thy houſe, &amp;c.</hi> See <hi>Deut. 11. 19. Pſ.</hi> 78 5, 6: Theſe ſhall ſuſſice for the Old Teſtament. See one alſo in the New, <hi>Epheſ. 6. 4. Ye Fathers bring up your children in the nurture and admonition of the Lord.</hi> This <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, denotes <hi>feeding and nouriſhing,</hi> and their ſpiritual food muſt bee <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies <hi>civil eauction,</hi> in manners, common honeſtly, moral vertue, and civil learning, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Religion</hi> too. Not only feed them and keep them alive, (ſaith <hi>Zanchy) facium boc &amp; anima<g ref="char:EOLhyphen"/>lia bruta, beaſts</hi> do thus much: not inſtruct them onely in manners and morality, for that <hi>Hea<g ref="char:EOLhyphen"/>thens</hi> did, and 'tis ſtrange, even amazing what rules <hi>Plutarch</hi> and <hi>Ariſtotle, &amp;c.</hi> give for this. But this <hi>admonition of the Lord,</hi> is <hi>Chriſtianorum proprium,</hi> ſaith he, and implies a training them up in <hi>ver â pietate, ver â religione, ver â Dei cog<g ref="char:EOLhyphen"/>nitione doctrinam coeleſtem in liberorum animos ſem<g ref="char:EOLhyphen"/>per inſtillando;</hi> In true Religion, and the know<g ref="char:EOLhyphen"/>ledge and worſhip of God.</p>
+            <p n="2">
+               <pb n="11" facs="tcp:65841:13"/>(2.) <hi>Pregnant preſidents.</hi>
+            </p>
+            <p n="1">1. Of <hi>Catechizert.</hi> Without doubt all the <hi>Patriarchs</hi> before <hi>Moſes</hi> were ſuch, for there be<g ref="char:EOLhyphen"/>ing till <hi>Moſes</hi> no <hi>written Word</hi> of God, the mind of God was undoubtedly conveighed from Fa<g ref="char:EOLhyphen"/>thers to children by <hi>tradition;</hi> and (as undoub<g ref="char:EOLhyphen"/>tedly) through the diligence of <hi>ſome</hi> parents, and the neglect of <hi>others</hi> in this duty, the true know<g ref="char:EOLhyphen"/>ledge of God, continued in <hi>Seths,</hi> and <hi>Noahs,</hi> and <hi>Sems,</hi> and <hi>Abrahams</hi> families, whiles moſt of the reſt turned Heathens and Idolaters. Con<g ref="char:EOLhyphen"/>cerning <hi>Abraham</hi> the Scripture is expreſſe, <hi>Gen. 18. 19: I know Abraham</hi> (ſaith God) <hi>that bre will command his children, and his houſhold after him, &amp;c. q. d.</hi> I know <hi>Abraham</hi> ſo well, that of all men he will not neglect it. <hi>David</hi> was ſo; ſee how he catechizeth <hi>Solomon</hi> his ſon, 1 <hi>Kin. 2. 2, 3. 1 Chron. 28. 9. And thou,</hi> Solomon, <hi>my ſon, know thou the God of thy father, and ſerve him with a perfect heart and a willing minde, &amp;c.</hi> So uſeful a way it was, that he invites <hi>others</hi> alſo to learn of him, <hi>Pſ.</hi> 34. 11. the <hi>Catechiſme</hi> is more large, <hi>Prov.</hi> 4. 4. &amp;c. <hi>Bathſhebs</hi> alſo, the mother, who took no leſſe pains with <hi>Solomon,</hi> as appears from his own mouth, <hi>Prov.</hi> 31. 1. The Apoſtle <hi>Paul</hi> thought it not more beneath him to give <hi>milk to babes,</hi> i. e. to inſtruct ignorant and weak Chriſtians in plain Catechiſm grounds of Religion, more then to <hi>ſpeak wiſdome,</hi> i. e. higher truths among knowing and judicious Chriſtians, 1 <hi>Cor.</hi> 3. 1, 2. whom he calls <hi>perfect.</hi> This alſo in 2 <hi>Tim.</hi> 1. 5. and 3. 15. compared, is the ſpecial commendation of <hi>Lois</hi> and <hi>Eunice.</hi> Afterwards it became a ſpecial office in the
+<pb n="12" facs="tcp:65841:14"/> Church to be a <hi>Catechiſt (ut ſuprà.</hi>)</p>
+            <p n="2">2. <hi>Of catechized.</hi> Thus it is moſt likely, <hi>Henoch,</hi> holy <hi>Henoch that walked with God,</hi> and whom God ſo gloriouſly tranſlated to himſelf, was thus inſtructed, and this appears from his very <hi>name,</hi> which is taken from the word in my Text <hi>Cha<g ref="char:EOLhyphen"/>nak,</hi> and ſignifies <hi>catechized, or inſtructed.</hi> Like<g ref="char:EOLhyphen"/>ly <hi>Abel</hi> was ſo before him. Concerning <hi>Solomon</hi> it is clear before. <hi>Theophilus,</hi> whom the Spirit of God honours ſo far as to admit him to be the firſt perſon to whom any portion of Scrip<g ref="char:EOLhyphen"/>ture was dedicated, was thus <hi>catechized</hi> in the Hi<g ref="char:EOLhyphen"/>ſtory of the Goſpel, <hi>Luke</hi> 1. 4. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. So was <hi>Apollos,</hi> to whom this commendation is given, that he was a man <hi>mighty in the Scriptures, Acts</hi> 18. 25. he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Paul</hi> himſelf was brought up at the <hi>feet of Ga<g ref="char:EOLhyphen"/>maliel, Acts</hi> 22. 3. a great Jewiſh Doctour. <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> is commended, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>from a ſuck<g ref="char:EOLhyphen"/>ling he had known the Scriptures, 2 Tim.</hi> 3. 15. Nay, what ſhall we ſay? when our <hi>Saviour</hi> himſelf condeſcends to be catechized? for ſo divers in<g ref="char:EOLhyphen"/>terpret, his hearing the Doctours, and asking them queſtions, which was the way of their training youth; and 'tis likely, ſo <hi>Paul</hi> was bred at the feet of <hi>Gamaliel.</hi> What famous <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> were <hi>Catechumeni,</hi> I have in part ſhewn be<g ref="char:EOLhyphen"/>fore. To whom let me adde <hi>Arnobius;</hi> And <hi>Luther</hi> profeſſeth, though he were a ſtudied Di<g ref="char:EOLhyphen"/>vine, yet he was beholden to Catechiſme.</p>
+            <p n="3">(3.) <hi>Demonſtrative Arguments.</hi> The firſt is, in this Syllogiſme.</p>
+            <p>Reaſon 1. <hi>If there be a way wherein children muſt goe, and they cannot, without being catechized,
+<pb n="13" facs="tcp:65841:14"/> know that way; then it is the duty of thoſe that have charge of them, ſo to catechize them.</hi>
+            </p>
+            <p>
+               <hi>But there is a way wherein they ought to go, and they cannot know this way without catechizing, &amp;c.</hi>
+            </p>
+            <p>Firſt, <hi>that children in their tendereſt years, have a way in which they ſhould goe,</hi> a duty belonging to their age is clear.</p>
+            <p n="1">1. To God. In that God requires them <hi>to remember their Creatour in the dayes of their youth, Eccleſ.</hi> 12. 1 And the perſons ſpoken to are th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe whoſe vain courſes the wiſe man tar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly repre<g ref="char:EOLhyphen"/>hends in the clauſe of the former chapter. Where he mindes children, and young men alike, of the ſickleneſſe of thoſe buds and bloſſomes, of their prime<g ref="char:punc">▪</g> 
+               <hi>childhood,</hi> ſaith he, <hi>and youth are va<g ref="char:EOLhyphen"/>nity, ch.</hi> 11. 10.</p>
+            <p>Hence God commends <hi>Timothy</hi> for having <hi>learned the Scriptures,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from a <hi>ſucking child, 2 Tim.</hi> 3. 15.</p>
+            <p>
+               <hi>Solomon</hi> was inſtructed very young; for <hi>Joſe<g ref="char:EOLhyphen"/>phus</hi> ſaith, he was but fourteen years old, others but twelve, when he began to reign, and his pa<g ref="char:EOLhyphen"/>rents had catechized him before that age. And 'tis not inconſiderable, that God takes children themſelves into Covenant, <hi>Deut.</hi> 29. 11.</p>
+            <p n="2">2. This for their duty to God. They have alſo a <hi>duty</hi> which they owe <hi>to parents,</hi> Epheſ. 6. 1.</p>
+            <p>And both theſe are clear, in that God ap<g ref="char:EOLhyphen"/>points <hi>correction</hi> as a great means to keep them in, even from their Infancy. Now God allows not correction but for faults, and there can be no fault where there is no duty. But God ap<g ref="char:EOLhyphen"/>points the rod for little children, See <hi>Pro.</hi> 22. 15.
+<pb n="14" facs="tcp:65841:15"/> 
+               <hi>Fooliſhneſs, i. e.</hi> wickedneſſe, <hi>is bound in the heare of a child,</hi> implying that there is a bundle of it, and that it is fixed, ſetled, naturall; what then is the way to remove it? <hi>the rod of correction ſhall ſetch it out.</hi>
+            </p>
+            <p>
+               <hi>Sol. 23. 13. Withhold not correction from the child, for if thou be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teſt him with the red be ſhall not dye;</hi> implying that there are damning corruptions in Infants hearts, and the way to ſave them from damnation is correction. Sure God doth not promiſe ſalvation to children barely becauſe they are whipped and corrected; but as the end of that means when rightly uſed, ſeeing the rod is an inſtrument to bring the child into a way of ſalvation. And 'tis obſervable that the way is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in both places, as in my Text.</p>
+            <p n="2">2. <hi>That they cannot know this way without in<g ref="char:EOLhyphen"/>ſtruction,</hi> is cleare,</p>
+            <p n="1">1. It we conſider, that none is borne a Chi<g ref="char:EOLhyphen"/>ſtian, farther then in profeſſion, <hi>Job 11. 12. Man is born like a wild aſſes colt.</hi> Vaine man, or empty man is fooliſh, and he is born ſo; like an <hi>aſſe,</hi> the dulleſt and fooliſheſt of all creatures (fooliſh to a proverb) and like a <hi>wild aſſe,</hi> the dulleſt and moſt unteachable of Aſſes, and ſuch a <hi>colt</hi> is man borne.</p>
+            <p n="2">2. That we have no knowledge by inſpira<g ref="char:EOLhyphen"/>tion without the uſe of means. A child would neither ſpeak nor go, were he not taught; though God can give both without means, yet he will not, ſo neither will he infuſe knowledge imme<g ref="char:EOLhyphen"/>diately, having appointed means for us to uſe to that end. If a child be bred where the name of God, and Chriſt, and religion is not heard, needs muſt he be an Atheiſt.</p>
+            <p n="2">
+               <pb n="15" facs="tcp:65841:15"/>2. Reaſon teacheth us, that when we attempt to alter the naturall diſpoſition of any thing, we muſt begin betimes. A crooked tree will <hi>break</hi> rather then <hi>bend,</hi> when old, that would have been ſet ſtraight when it was young, though it were never ſo crooked; and when we will tame any creatures that are by nature wild, we take them young, and uſe them to the diſcipline w<hi rend="sup">ch</hi> we mean to bring them to. A young <hi>horſe</hi> is ſitteſt to learn a <hi>pace,</hi> and a young <hi>Spani<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> to <hi>hunt,</hi> and therefore we put them to it in that age. We deale ſo with <hi>children</hi> in the things of the <hi>world;</hi> wee inſtruct them in reading, writing, needle-work, muſick, in their tender yeares. Hereby we con<g ref="char:EOLhyphen"/>demn our ſelves in the preſence of God and good men, if we neglect to take the ſame courſe for principling them in the wayes of God. A childs age is tender and pliable, a young twig that you may bend any way, if you take him betimes, but if you let him get head, and grow ſtout before you handle him, (beſides that he muſt needs grow crooked, ſeeing 'tis ſo natural to him) he will be incapable of being reduced to order. When perſons are children, fond parents thinke them <hi>too young,</hi> and when they are a little grown towards men and women, they think themſelves <hi>too old</hi> to be inſtructed; and ſo many poor ſottiſh ſoules (what between their parents negligence, and their own pride and conceitedneſſe) periſh without underſtanding, and as they live dye like beaſts. <hi>Ergo,</hi> 'tis ſaid, <hi>he that loves his child chastens betimes,</hi> Pro. 13. 24.</p>
+            <p n="3">3. <hi>If God requires conſtancy and preſeverance in a good way to the end of the longeſt life, then (as a
+<pb n="16" facs="tcp:65841:16"/> means thereunto) be requires, youth ſhould be catechi<g ref="char:EOLhyphen"/>zed in that way. But God requires conſtancy and perſevarance in age.</hi> Ergo.</p>
+            <p>Here are two propoſitions to be proved.</p>
+            <p n="1">1. That God expects a man ſhould perſevere in a good way, <hi>ad extremam uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſenectutem.</hi> And I hope I ſhall not need to ſay much, onely ſee how <hi>Paul</hi> chargeth <hi>Timothy</hi> concerning the <hi>truths</hi> of Jeſus Chriſt. <hi>Hold faſt the form of ſcund words,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>keep charity that good thing which was committed to thee,</hi> ſpeaking of Doctrine, 2 <hi>Tim.</hi> 1. 13, 14. and ſo 3. 14, 15.</p>
+            <p>And ſo for the <hi>wayes</hi> of God, we are in many places preſſed to <hi>endure to the end, Mat. 10. 22. To hold faſt the beginning of our confidence to the end, Heb. 3. 6, 14. To hold faſt our profeſſion,</hi> 4. 13. 10. 23. See another charge to <hi>Timothy, 1 Tim.</hi> 5. 13, 14. So 1 <hi>Tim.</hi> 1. 18, 19. he hath a command con<g ref="char:EOLhyphen"/>cerning both.</p>
+            <p>And certainly there is nothing more unwor<g ref="char:EOLhyphen"/>thy a <hi>Chriſtian,</hi> nay a <hi>man,</hi> then that prodigious ſickleneſſe of perſons in this our wanton age, wherein the mindes of men undergoe more fre<g ref="char:EOLhyphen"/>quent changes then their garments, and become fickle in every thing but their own ſickleneſſe. Certainly, the Lord hates ſuch <hi>Chamaelions,</hi> and <hi>Weather-cocks in Religion,</hi> ſuch <hi>children</hi> in diſcre<g ref="char:EOLhyphen"/>tion, as are <hi>turned about with every wind of falſe doctrine, and fall away from their ſtedfaſtneſſe,</hi> Eph. 4. 14. 2 Pet. 3. 17.</p>
+            <p n="2">2. Now <hi>that catechizing in youth is a great ſe<g ref="char:EOLhyphen"/>curitie against Apoſtacy in age.</hi> My Text in the latter part abundantly teſtifies; and when the Apoſtle preſſeth perſeverance on <hi>Timothy,</hi> whence
+<pb n="17" facs="tcp:65841:16"/> doth he draw his argument? is it not from his initiation into that way in infancy? 2 <hi>Tim. 3. 14, 15. continue—knowing that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</hi> See the end that God aimes at in enjoyning pa<g ref="char:EOLhyphen"/>rents their duty, <hi>Pſal.</hi> 78. 4. 56,</p>
+            <p>Indeed, when we come to yeares of diſcreti<g ref="char:EOLhyphen"/>on, we muſt not then ſtick to truths and wayes barely, becauſe we learned them in youth; for upon this account, a man might be excuſed for obſtinacy in an erroneous or ſinfull way; but we are bound to try thoſe things after wards, which we learn in youth by rote; and as farre as we find them good and ſound, to be thereby the more encouraged to perſevere in them. Wee reve<g ref="char:EOLhyphen"/>rence truths and duties for our parents ſake who teach us when we are <hi>young;</hi> but afterwards when we finde the worth of the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by a riper judgement of our own, we reverence our parents for their ſakes.</p>
+            <p n="1">1. We perceive that as a tree is bent to the hand when 'tis young, ſo it growes commonly ever after.</p>
+            <p n="2">2. Prepoſſeſſion (we ſay) is 11 points of the Law, and if God get the firſt poſſeſſion of the heart in our infancy, he will not be eaſily caſt out againe. 'Twill coſt ſuch a man as had good education from infancy, many an hard tugge and pull of conſcience, if he turne a ſide from the way afterwards.</p>
+            <p n="3">3. Men ordinarily count it their honor to be conſtant, and indeed it is ſo, if it be a good way, for it is a beame of the Divine Nature which is <hi>unchangeableneſſe.</hi> But though the way be never ſo <hi>bad,</hi> yet (ordinarily) when we are entered in it
+<pb n="18" facs="tcp:65841:17"/> in our infancy, we hardly leave it. <hi>That that is bred in the bone will bardly out of the ſleſh.</hi> And he reditary <hi>ſins</hi> and <hi>crrours,</hi> like hereditary <hi>diſeaſes,</hi> are hardly ever cured, <hi>Jer. 44. 16, 17. The Queen of heaven</hi> could not be ungodded by all <hi>Jeremies</hi> words, for they had been bred in Idol-worſhip, and therefore they will continue in it. If a thing be but <hi>indiſſerent</hi> the parents commands render it even neceſſary in the eyes of children, to ob<g ref="char:EOLhyphen"/>ſerve it. See in the <hi>Rechabites, Jer.</hi> 35 6. 7, 8. And the Apoſt'e <hi>Paul</hi> was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Gal. 1. 14. exceeding zealous</hi> herein</p>
+            <p>And no doubt but the ſame principles would have ſome influence upon the conſtancy of chil<g ref="char:EOLhyphen"/>dren in good things, if they were as carefully in<g ref="char:EOLhyphen"/>ſtilled into them as evill ones are</p>
+            <p n="4">4. Adde to theſe, faſtly, That God is cſpeci<g ref="char:EOLhyphen"/>ally engaged to ſuch as are ſo principled, to keep them in the way; and ſo ſome read the words in the Text, in a promiſſory ſenſe, <hi>be ſhall not de<g ref="char:EOLhyphen"/>part from it.</hi> And truely I much incline to that reading, ſeeing God intends it for an incourage<g ref="char:EOLhyphen"/>ment to parents to traine up their children in a good way, and that not meerly morall, but di<g ref="char:EOLhyphen"/>vine, and ſuch an encouragement as may give them the greateſt ſecurity againſt their apoſtacy; and he could give them none, like engaging him<g ref="char:EOLhyphen"/>ſelfe to keep them in the way. See how confi<g ref="char:EOLhyphen"/>dently <hi>David</hi> prayes on this account, 71. 5, 6, 9. 14, 17, 18</p>
+            <p>
+               <hi>Object.</hi> But you will ſay then, how come ſo many that are well-bred, to apoſtatize?</p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, (1.) ei her they are but <hi>ſleight<g ref="char:EOLhyphen"/>ly</hi> principled by parents; and if they ſow <hi>little,</hi>
+               <pb n="19" facs="tcp:65841:17"/> they cannot look to reap <hi>much;</hi> or (2.) they do not <hi>water</hi> what they <hi>ſow,</hi> with prayer, as they ſhould; or (3.) they undo by their example what they do by inſtruction; (4.) or laſtly, their chil<g ref="char:EOLhyphen"/>dren were never truly the better for their educa<g ref="char:EOLhyphen"/>tion, but lived in a <hi>godly family,</hi> as divers do in a <hi>priſon,</hi> and watched earneſtly for a manumiſſion from it by increaſe of yeares; and 'tis no won<g ref="char:EOLhyphen"/>der if ſuch be carried away, when opportunity is offered, that watch an opportunity to eſcape be<g ref="char:EOLhyphen"/>fore it is offered: No wonder if the fruit fall when it is grown great, which was rotten at the core from the firſt.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 1. Severe <hi>reprebenſion</hi> to thoſe parents of all ſorts and ſizes who neglect this duty. Now of theſe there are ſeverall ſorts, and the reproofe muſt be directed to them in proportion as it is deſerved</p>
+            <p n="1">I. Some herein offend out of <hi>ignorance,</hi> not ſo much of the <hi>quòd</hi> (for that I hope I have remo<g ref="char:EOLhyphen"/>ved by what hath been ſaid) but the <hi>qumodo</hi> how they muſt do it. They are (themſelves) ignorant of the firſt principles of Religion, though <hi>by the time</hi> which they have had in the Church of God, they might have been enabled to <hi>teach others;</hi> a thing which the Apoſtle <hi>Paul</hi> cryes ſhame on, <hi>Heb.</hi> 5. 12</p>
+            <p n="1">(1.) How many <hi>gray beards, and boary heads,</hi> ſhall a Miniſter, upon a ſerious ſearch, ſind in Congregation, that are yet to learn the A. B. C. of the Religion which they have lived in and profeſſed from their infancy? Truely, that ſuch perſons are Chriſtians, is more from the <hi>hand</hi> of <hi>providence,</hi> then the <hi>grace</hi> of <hi>preſoverance.</hi> If the
+<pb n="20" facs="tcp:65841:18"/> 
+               <hi>State</hi> hold to the Faith, they may, but if the Re<g ref="char:EOLhyphen"/>ligion of the <hi>clime</hi> alter, they that have lived Proteſtants in profoſſion ſixty or ſeventy years, I will not be bound for one to a thouſand of them that they ſhall not dye Papiſts, or Mahumentans. I feare when we ſhall hereafter enquire into the knowledg as well as converſations of our Com<g ref="char:EOLhyphen"/>municants, it will appeare ſo.</p>
+            <p n="2">(2.) How many <hi>young Striplings</hi> are there that get them Wives and are fathers of children, before they have wit to teach them any thing but childiſh games, and are fitter to be their <hi>play<g ref="char:EOLhyphen"/>mates,</hi> when they have begotten them, then their <hi>paren's?</hi> Such as the Primitive Church would have kept among the Catechumeni, many years, beyond the age in which among us they are <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> and <hi>Mothers;</hi> and 'tis pitty, among us, a married condition is growne to be a protection againſt Catechizing. We ordinarily condemn the wiſedome of ſuch perſons as marry, and get children before they know how to <hi>maintaine</hi> them; and is it not as much a ſhame for men to get children ere they can tell how to <hi>catechize</hi> them? I profeſſe for my part, I thinke it a very unfitting thing that any perſons in a Chriſtian Common-wealth ſhould marry and become pa<g ref="char:EOLhyphen"/>rents, ere they can give an account of their faith. How ſhall they engage to the Congregation to educate their children in the Faith that they know not? I muſt beſeech, nay charge, ſuch pa<g ref="char:EOLhyphen"/>rents and maſters of families, to get them Cate<g ref="char:EOLhyphen"/>chiſmes, and let them not be a ſhamed to learn at home with their children, leſt their children but ſtrip in knowledge, and riſe up in
+<pb n="21" facs="tcp:65841:18"/> judgement againſt their parents. Otherwiſe, I make no queſtion that by that time I have fol<g ref="char:EOLhyphen"/>lowed this exerciſe one twelve-moneth (if they will be ſo good to their childrens ſoules, as to ſend them hither) by the bleſſing of God, I ſhall make the leaſt child here, that can but go and ſpeak, ſhame a great part of the elder people of this Congregation.</p>
+            <p n="2">II. Others offend out of <hi>ſcruple,</hi> to whom I ſhall ſpeake more in the next Uſe; onely let me tell them, that conſcience that makes men ſcru<g ref="char:EOLhyphen"/>ple ſin is ſafely tender, but an erroneous danger<g ref="char:EOLhyphen"/>ous one, that occaſions ſcrupling duties; that (ordinarily) a ſleight and careleſſe, and unpro<g ref="char:EOLhyphen"/>fitable living under duties whilſt we are ſatisfied in them, occaſions our diſlike of them; and that it is juſt with God it ſhould be ſo that God ſhould ſuffer themſelves to put their conſciences as a barre to the enjoyment of the benefit of ſuch duties, who once made no conſcience to benefit by them at all, when they did enjoy them.</p>
+            <p n="3">III. Others offend <hi>wilfully,</hi> and therefore the more fearfully, and deſperatly. There be ſome <hi>fools</hi> in the world, as <hi>Solomon</hi> ſaith, that <hi>hate knowledge, Pro.</hi> 1. 22. and no wonder if they that hate it themſelves, will labour to keep their chil<g ref="char:EOLhyphen"/>dren from it as much as they can. Now as this hatred of knowledge ſeldom poſſeſſeth any man ſo deſperately as that he ſhould becom an ene<g ref="char:EOLhyphen"/>my to it for its own ſake, but he therefore hates it becauſe it doth (and ſo far hates it as it doth) diſcover ſome evills in him, which he labours to conceale and maintaine, as our Saviour renders the cauſe, <hi>Job.</hi> 3. 20. ſo is this principle that en<g ref="char:EOLhyphen"/>gageth
+<pb n="22" facs="tcp:65841:19"/> divers perſons ſo violently to ſet them<g ref="char:EOLhyphen"/>ſelves againſt this Ordinance, commonly begot<g ref="char:EOLhyphen"/>ten in them by one of theſe three things.</p>
+            <p n="1">1. <hi>Errour</hi> in their judgements. Men that hold heterodox and unſound opinions, and de<g ref="char:EOLhyphen"/>ſire to nuzle up their families in them, are af<g ref="char:EOLhyphen"/>fraid, if the light of Catechiſm-truths get into their families, they ſhall not enjoy their deare opinions ſo quietly; and ſeducers that <hi>creep into houſes,</hi> and make <hi>ſilly men and women</hi> their prey, are <hi>bodily afraid</hi> (as we ſay) leſt this courſe ſhould deliver the prey from their teeth, and therefore they make it their buſineſſe to keep all that they can from this holy exerciſe. They know 'tis beſt juggling by a dimme light, and fiſhing in mudded waters, and a cloudy day.</p>
+            <p n="2">2. Or ſecondly <hi>viciouſneſſe</hi> in their lives. They know whilſt the light is ſhut out of a roome, a little cleanlineſſe will paſſe for a great deal: but if the Sun get in, he will ſhew a great deal of duſt which before was over-looked. They know that a little Religion will go farre to get them a name in an uncatechized Town or Family; but when the very children and ſervants ſhall be able by the Word of God to examin all their actions, and they ſhall have as many <hi>reprovers</hi> in a neigh<g ref="char:EOLhyphen"/>bourhood or family as <hi>perſons,</hi> they think this a tedious trouble; nay, and (poſſibly) they ex<g ref="char:EOLhyphen"/>pect ſome ſervice from them, which light will hinder.</p>
+            <p n="3">3. Or thirdly, <hi>Envy.</hi> This moved the <hi>Jews</hi> to hinder <hi>Pauls</hi> preaching, <hi>Acts</hi> 17. 5. 13. 45, 46.</p>
+            <p>To thoſe of all three ſorts, I muſt ſay this in
+<pb n="23" facs="tcp:65841:19"/> the Name of the Lord, as <hi>Paul</hi> ſaid to <hi>Elymas the Sorcerer,</hi> Acts 13. 10. <hi>O ye wretches, that are full of ſubtiltie and all miſchiefe, you children of the devill, and enemies of all righteouſneſs, will ye not yet ceaſe to pervert the righteous wayes of the Lord?</hi> Is it not enough that you are reſolved to damn <hi>your owne</hi> ſoules, but you muſt draw <hi>others</hi> into hell with <hi>you?</hi> Know this, that the more you occaſion damnation to, the deeper will your owne dam<g ref="char:EOLhyphen"/>nation be. Beleeve it, all the curſes of your chil<g ref="char:EOLhyphen"/>dren and ſervants that are damned for <hi>want of knowledge,</hi> will fall on your heads. If the wil<g ref="char:EOLhyphen"/>full murther of the bodies of men be ſo hainous a ſinne, O what an horrible guilt is there in the wilfull murther of ſouls!</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe. 2. Exhortation</hi> to the conſcientious diſ<g ref="char:EOLhyphen"/>charge of this duty, by all whom it doth con<g ref="char:EOLhyphen"/>cern. To ſet home this, I ſhall</p>
+            <list>
+               <item>1. <hi>Shew</hi> on whom it lyes.</item>
+               <item>2. <hi>Direct</hi> what courſe ſhould be taken to effect it.</item>
+               <item>3. <hi>Lay down</hi> ſome inducements to it.</item>
+               <item>4. <hi>Remove</hi> impediments and diſcourage<g ref="char:EOLhyphen"/>ments.</item>
+            </list>
+            <p n="1">I. The <hi>perſons</hi> on whom this duty is charge<g ref="char:EOLhyphen"/>able, are (in generall) all that have the name of <hi>parents.</hi> Now that name, and ſo duty is common to all <hi>ſuperiours,</hi> though not to all in the ſame way. <hi>Magiſtrates</hi> are to teach, and ſo to cate<g ref="char:EOLhyphen"/>chize, <hi>favendo, protegendo, praecipiendo.</hi> So <hi>Je<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſha<g ref="char:EOLhyphen"/>phat</hi> and his Princes, 2 <hi>Chron.</hi> 17. 7, 8, 9. taught, by ſending out, and accompanying with their
+<pb n="24" facs="tcp:65841:20"/> power and aſſiſtance, teaching Prieſts. So <hi>Heze<g ref="char:EOLhyphen"/>kiah,</hi> chap. 30. 22. and <hi>Joſiah</hi> 35. 2. taught by <hi>ſpeaking comfortably to,</hi> and encouraging them.</p>
+            <p>
+               <hi>Naturall Parents</hi> and <hi>Maſters</hi> of <hi>families</hi> are to do it, <hi>partly</hi> in their own perſons in private. This was <hi>Abrahams</hi> care, <hi>Gen.</hi> 18, 19. and <hi>Davids,</hi> &amp;c. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſuprà,</hi> and <hi>partly,</hi> by cauſing them to preſent themſelves to the publick inſtruction of the Mi<g ref="char:EOLhyphen"/>niſter, whoſe work is to teach them publickly, and take an account of their growth in know<g ref="char:EOLhyphen"/>ledge. That this is the Miniſters duty, and ſo by conſequence, the duty of ſuch Governours to preſent their charges before them will appear, in that (1) they are not onely ſhepheards to the ſtronger <hi>ſheep,</hi> but to the <hi>lambs</hi> alſo, and Chriſt requires they ſhould be fed as they can beare, <hi>John 21. 15. feed my little lambs,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The Apoſtle <hi>Paul</hi> had to deale with the raweſt and youngeſt as well as the moſt experienced and ſtrongeſt; and ſo had <hi>milke</hi> for them as well as <hi>ſtronger meat,</hi> and <hi>wiſdome for the perfect.</hi> It ap<g ref="char:EOLhyphen"/>peares alſo from <hi>Heb.</hi> 13. 17. where the Holy Ghoſt chargeth the ſouls of the whole flock on them, as that of which they muſt <hi>give account;</hi> and if ſo, it is ſuppoſed they muſt know the ſtate of them, and muſt have proper means allowed them whereby to be able to perform it: and for this, no means ſo proper as Catechizing. Beſides, hereby they are enabled to diſcover the care or negligence of Governours of Families in their reſpective charges, and deale with them in their Miniſtry accordingly. Adde to all this, that many of ſuch Governors and Parents have need to be catechized themſelves, and then the family
+<pb n="25" facs="tcp:65841:20"/> are more properly and immediately under the Paſtors charge and inſpection then otherwiſe; and ſuch of all others (though they uſually throught pride <hi>are,</hi> yet) have leaſt reaſon to <hi>be</hi> backward in preſenting their people to this Or<g ref="char:EOLhyphen"/>dinance.</p>
+            <p n="2">II. But what if we cannot prevaile with our Children and Servants, to ſubmit themſelves thereunto, what courſe muſt we take with them? (may Parents and Maſters ſay.)</p>
+            <p>
+               <hi>Anſw.</hi> Even the ſame courſe, or a more ſe<g ref="char:EOLhyphen"/>vere, which you would, in caſe they neglected their duty to your ſelves.</p>
+            <p n="1">1. Inſtruct them your ſelves, in their duty that they are bound <hi>to obey you in the Lord,</hi> Epheſ. 6. 1. Yea, in <hi>all things</hi> that are not ſinfull, and I hope none is ſo vile as to charge this duty with ſinne, ſee <hi>Col.</hi> 3. 22.</p>
+            <p n="2">2. Charge this their duty upon them in the preſence of God, with all Authority, as they will anſwer it at the Judgement-Seat of Chriſt. If this ſucceed not,</p>
+            <p n="3">3. Appoint proper penalties for every neglect in Gods Service; abridge them of thoſe liber<g ref="char:EOLhyphen"/>ties for recreation, and other refreſhments of your ſmiles and countenance, (things which are in your power to beſtow or deny) till they con<g ref="char:EOLunhyphen"/>forme.</p>
+            <p n="4">4. Correct them, and that more ſeverely for any neglect of this kinde, then for any offence towards your own perſons, <hi>Pro.</hi> 10. 13. 13. 24. 26. 3. 29. 15.</p>
+            <p n="5">5. If they be incorrigible, diſcharge them the family, <hi>Pſal.</hi> 101. 4, 6. the preſence of ſuch perſons
+<pb n="26" facs="tcp:65841:21"/> is more hurtfull (if the preſence and bleſſing of God be any thing worth) then their abſence, <hi>Phi<g ref="char:EOLhyphen"/>lemon 11. Oneſimus,</hi> when unconverted, was an unprofitable ſervant, but converted, became pro<g ref="char:EOLhyphen"/>fitable both to the Church and his Maſter, and whereas <hi>Philemon</hi> had before either turned him off, or let him depart, and counted it <hi>a good rid<g ref="char:EOLhyphen"/>dance,</hi> (as we uſe to ſay) <hi>Paul</hi> never preſſed him to entertain him again, till he was aſſured that he was become gracious, See <hi>Gen.</hi> 21. 9, 10, 11 yet their uſage muſt be different, as they be either ſcrupulous, or ſhamefaced, or obſtinate; if there be <hi>invincible ſcrupulouſneſſe,</hi> theſe hindrances muſt be more gently, and with more conſcientious care removed; ſo farre, as that it may appeare, that the judgement <hi>is,</hi> (or <hi>ought</hi> upon ſufficient meanes of conviction to be) ſatisfied, and then to enjoyn obedience; you may judge if conſci<g ref="char:EOLhyphen"/>ence ſcruple this, by conſcientious ſcruples in other things.</p>
+            <p>
+               <hi>Shamefacedneſſe</hi> muſt be wrought out by brin<g ref="char:EOLhyphen"/>ging them to ſuch duties by degrees. <hi>Obſtinacy</hi> muſt be preſently knocked down by the autho<g ref="char:EOLhyphen"/>rity and power of the Maſter or Parent, it be<g ref="char:EOLhyphen"/>ing a conteſtation with him for the rule of the family.</p>
+            <p>III. Motives to this duty concern,</p>
+            <list>
+               <item>1. <hi>Superiours,</hi> or Parents.</item>
+               <item>2. <hi>Inferiours,</hi> or Children.</item>
+            </list>
+            <p n="1">1. To <hi>Superiours.</hi> Conſider,</p>
+            <p n="1">1. Religion make<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the beſt ſervants and chil<g ref="char:EOLhyphen"/>dren, yea, ſubjects; Thoſe that have ſucked in a
+<pb n="27" facs="tcp:65841:21"/> conſcientious knowledge of their duty in their tender yeares, will doe more for a <hi>word</hi> then o<g ref="char:EOLhyphen"/>thers for many <hi>blows. Abrahams</hi> family was a <hi>catecbized</hi> family, and ſee how ſweet an harmony there is in all the parts; his <hi>wife,</hi> an humble duti<g ref="char:EOLhyphen"/>ful &amp; obedient wife: The Scripture takes eſpeci<g ref="char:EOLhyphen"/>all notice that <hi>Sarab called Abraham Lord, and obeyed him, 1 Pet.</hi> 3. 6. His Son <hi>Iſaac,</hi> what an ex<g ref="char:EOLhyphen"/>ample was he of ſubjection to his Father, hee trudgeth after him with his load of wood that was to ſacrifice him, he reſignes himſelfe wholly to him in the choice of his Wife, he ſhewes his pious education in his private devotions, <hi>Gen.</hi> 22. 6. 24. 4. 63. His <hi>Servant Eliezer,</hi> what apatern of wiſedome, piety, and faithfulneſſe gives he, <hi>chap.</hi> 24. And it cannot be otherwiſe, but that Religion making them to behold Gods holy Law ſeconding all the commands of their <hi>Supe<g ref="char:EOLhyphen"/>riours,</hi> muſt be a principle of univerſall obedi<g ref="char:EOLhyphen"/>ence unto them. Now religious principles (<hi>ut ſuprà</hi>) are not <hi>ex traduce,</hi> borne with us, but taught; all the regular obedience that you can expect, muſt be <hi>in the Lord,</hi> and how ſo, if they know not what that duty meanes?</p>
+            <p n="2">2. This is the way to make <hi>Families, Churches,</hi> and ſo (in an eſpeciall manner) to engage the bleſſing of God unto them, and the curſe to the contrary. Though catechizing carry not grace with it inſeparably, yet (ordinarily) the want of it is evidence enough of little grace in a family; needs muſt ſuch <hi>families</hi> be among them <hi>that call not upon the name of God,</hi> and ſo lye under a fear<g ref="char:EOLhyphen"/>full imprecation, <hi>Jer.</hi> 10. 2. For <hi>how can they call upon him, of whom they have not heard?</hi> Rom.
+<pb n="28" facs="tcp:65841:22"/> 10. 14. An uncatechized family is an Heathen family. Now where God is owned in a family, what a bleſſing comes with it; ſee in <hi>Potiphars</hi> family, <hi>Labans</hi> family, <hi>Gen.</hi> 39. 5. and 30. 27. If one godly man in a family bleſſed it, how would many?</p>
+            <p n="3">3. By this means a <hi>plantation of Churches</hi> may be erected. People talke of <hi>gathering Churches,</hi> but their way (generally) is <hi>ſcattering</hi> them, as many precious Miniſters find by ſad experience, their Congregations being parcelled out into private meetings; but this is warrantable way of gathering Churches. Catechize your own familyes where you have authority, and when they go abroad in the world, whereever they light, they will drop ſome ſavorie knowledge, and leave ſome reliſh behind them. Thus is a good man <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and families are nurſe<g ref="char:EOLhyphen"/>ries to Church and State. <hi>Dan. 12. 4. Many come to and fro, and knowledge is multiplied.</hi>
+            </p>
+            <p n="4">4. This is a notable way to preſerve <hi>union in families,</hi> when they walke (all of them) by the ſame known common principles. The reaſon of diviſion in many families is, that they are per<g ref="char:EOLhyphen"/>ſons of ſeverall principles and wayes. It may be in a family of ten perſons (if of age) they are all members of ten ſeverall Congregations. The husband will not communicate with the wife, nor the child with the father, nor ſervants with their maſters; whence this? is it not from want of early grounding them all upon common principles?</p>
+            <p n="5">5. If they be <hi>ſaved,</hi> you will be rewarded as inſtruments, <hi>Dan.</hi> 12. 3. If they be <hi>damned,</hi> you
+<pb n="29" facs="tcp:65841:22"/> are, cleare their deſtruction will be of themſelves, and their <hi>blood upon their own heads:</hi> Otherwiſe think what heavy curſes will be belched out a<g ref="char:EOLhyphen"/>gainſt you to all eternity, by thoſe whoſe de<g ref="char:EOLhyphen"/>ſtruction hath been promoted, by your neglect of teaching them better. Let none of yours have cauſe to ſay, you ſuffered them to periſh with<g ref="char:EOLhyphen"/>out inſtruction.</p>
+            <p n="6">6 (As for <hi>children</hi> in ſpeciall) <hi>Parents,</hi> you have great reaſon to endeavour to make them knowing &amp; gracious, for their natural blindnes and corruption they are beholden to you for, they are hereditary diſeaſes. You would faine have your children acknowledge themſelves be<g ref="char:EOLhyphen"/>holden to you for their being, for what I pray you? for making them children of wrath, and heires of damnation, a condition a thouſand times worſe then not to be? A parent is a mans deadlieſt enemy that begets him to hell, and never endeavours to recover him from that con<g ref="char:EOLhyphen"/>dition.</p>
+            <p n="7">7. God uſeth to puniſh the neglect of this duty, by making thoſe perſons the greateſt plagues to a parent whom he is moſt careleſſe to educate with a ſtrict hand in the knowledge and practiſe of their duty. Lamentable examples are in <hi>Abſolom</hi> and <hi>Adonijab,</hi> about whom it ſeemes <hi>David</hi> took leaſt care for their ſtrict education, See 2 <hi>Kings</hi> 1. 6.</p>
+            <p>If you let them <hi>ſow wild oates,</hi> you (as well as they) may <hi>reap</hi> repentance in time.</p>
+            <p n="2">2. To <hi>Inferiours,</hi> and thoſe of the younger ſort, (eſpecially) I ſhall ſay a few things alſo by way of encouragement.</p>
+            <pb n="30" facs="tcp:65841:23"/>
+            <p>1. God values a knowing and religious child<g ref="char:EOLhyphen"/>hood and youth at an high p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice. See how he calls for our young dayes, <hi>Eccleſ</hi> 12. 1. the argu<g ref="char:EOLhyphen"/>ment is remarkable. [<hi>before the dayes come wherein thou ſhalt ſay, I have no pleaſure in them.</hi> q. d. <hi>Wilt thou leave thoſe dayes for God, which thou ſhalt bee weary of thy ſelfe? Will God take pleaſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in that part of thy time that thou canſt take none in? Thy dayes of choyce</hi> (ſo the word ſignifies) <hi>the choyceſt dayes ſhould be filled up with the choyceſt imployments.</hi>] It is a prety obſervation of ſome <hi>Rabbins</hi> upon <hi>Levit.</hi> 1. 14 that the Lord will admit <hi>turtles</hi> for a ſacrifice at any age, but <hi>pigeons</hi> it is expreſſely required that they be young; and they give this reaſon, becauſe <hi>tu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tles</hi> are ſavoury meat at any age, but <hi>pigeons</hi> when they grow <hi>old,</hi> grow <hi>tough</hi> and illreliſhed. Truly friends, we are not born turtles, (for ſuch are onely Chriſts ſancti<g ref="char:EOLhyphen"/>ſied ones, <hi>Pſal.</hi> 74. 19) we are pigeons. Let us remember that there is no acceptable reliſh in old pigeons, See 2 <hi>Tim.</hi> 3. 15. God promiſeth ſuch eſpeciall mercie, <hi>Prov.</hi> 8. 17.</p>
+            <p n="2">2. There is none of you but is old enough to <hi>dye,</hi> and old enough to be <hi>damned. Rom.</hi> 5. 14. Therefore it concerns you to get the knowledge of the way of ſalvation early. You early con<g ref="char:EOLhyphen"/>trive how you ſhall live in this world, and are contented upon that account to learn a Trade, becauſe you know not how ſoon you may be left to your ſelves, Oh be as wiſe for your ſouls!</p>
+            <p n="3">3. This is the <hi>learning-age;</hi> if ever you will know the things of God, it muſt be now; here<g ref="char:EOLhyphen"/>after when you come into the world, you will
+<pb n="31" facs="tcp:65841:23"/> plead multitudes of imployments to divert you, you will not be able to find time to learn: Now you have no affaires of your own to put theſe more weighty ones out of your heads, you have not the temptation of ſhame to acknowledge your ignorance; &amp; this to thoſe of grown age is a great enemy to learning, eſpecially in this way; they are aſhamed now to learn, leſt they ſhould confeſſe they have been ignorant ſo long.</p>
+            <p n="4">4. You can never make any regular profit of the publick hearing (nay very little of private reading) of the Word without the help of Cate<g ref="char:EOLhyphen"/>chiſme. As for <hi>preaching,</hi> Catechiſme-points are the tools, by the help whereof a Miniſter makes Sermons, and people underſtand them. Can you underſtand a diſcourſe concerning any trade, and yet be altogether ignorant of the names and na<g ref="char:EOLhyphen"/>ture of the tools that are uſed in it? And as for <hi>reading,</hi> you will be able to make little uſe of that alſo, except you can reduce what you read to ſome Methodicall head, or other of Di<g ref="char:EOLhyphen"/>vinity, which you muſt be beholden to Cate<g ref="char:EOLhyphen"/>chiſmes for.</p>
+            <p n="5">5. Nay further, ſome of the Ancients, have cenſured the ignorance of Catechiſme very highly. <hi>Clemens Alexandrinus,</hi> (the great Ca<g ref="char:EOLhyphen"/>techiſt in the famous Church of <hi>Alexandria,</hi> whence he hath his title) ſaies roundly, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>That there is no beleeving without catechizing-principles:</hi> And a<note place="margin">
+                  <hi>Aquiſ. Concil. Can.</hi> 14.</note> whole <hi>Councill</hi> determined many yeares ſince, that <hi>thoſe are not worthy the name of Chriſtians that are not acquainted with Catechiſme.</hi>
+            </p>
+            <p n="6">6. The condemnation that lights upon any
+<pb n="32" facs="tcp:65841:24"/> of you at the laſt day for wilfull ignorance will be an heavy condemnation. Read and tremble (you of <hi>Reading</hi>) at the fearfull place, <hi>Matth.</hi> 10. 15. If it be (even under temporall evils) ſo ſad an aggravation, to conſider that a man hath <hi>hated inſtruction, and not obeyed the voice of his Teachers, nor inclined his eare to them that inſtructed him</hi> (as it ſeems it is by <hi>Solomon, Prov.</hi> 5. 12.) how much more aggravating will it be to thee hereafter in <hi>hell,</hi> to conſider that thou didſt once live in a family where Catechizing and other exerciſes of family-religion were in uſe, that thou hadſt thy abode in a <hi>Town</hi> where thou didſt, or mighteſt at leaſt, heare a publick Cate<g ref="char:EOLhyphen"/>chiſme every <hi>Lords day;</hi> and yet thou didſt ei<g ref="char:EOLhyphen"/>ther <hi>ſloathfully neglect,</hi> or <hi>malieiouſly hate</hi> thoſe precious meanes which (by Gods bleſſing) might have kept thee from that place of tor<g ref="char:EOLhyphen"/>ment?</p>
+            <p n="6">7 This is found (<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y experience) the moſt <hi>pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fitable and compendious way</hi> of teaching all <hi>Arts and Sciences,</hi> to draw the principles of it into ſhort <hi>Syſtemes</hi> and <hi>Tables,</hi> and the Tutor to read Lectures upon them, and take an account of his Scholars how they underſtand them. If you put a child to learn Engliſh, he muſt begin with his A. B. C. &amp; the Teacher muſt not only take the book and read the leſſon to the child about the letters, but examine him <hi>which is which,</hi> if hee will have him expert in ſo triviall a thing as an <hi>Horn-book.</hi> Catechiſmes are ſuch A. B. C. with<g ref="char:EOLhyphen"/>out which you cannot <hi>ſp<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> any ſound Divinity, and if you do not take the ſame courſe in them, with young novices, we may preach to them
+<pb n="33" facs="tcp:65841:24"/> while we will, to little purpoſe; and they hear, but to as little.</p>
+            <p n="4">IV. The <hi>impediments</hi> to this duty I ſhall take notice of, and (by Gods help) take away in their order.</p>
+            <p n="1">1. On the <hi>Parents and Governours</hi> part, who ſhould preſent their little ones to this Ordi<g ref="char:EOLhyphen"/>nance, there are two ſcruples (ſlender ones, I muſt needs ſay, yet ſuch as are ſtrong enough to ſtumble ſlender Chriſtians, and eſpecially take hold of ſuch as are tainted with ſome principles of Anabaptiſme; but as ſmall as they are, wee will ſtoop to take them off.)</p>
+            <p>
+               <hi>Object.</hi> And firſt it is <hi>objected,</hi> That if the chil<g ref="char:EOLhyphen"/>dren ſo catechized be very young, and not capa<g ref="char:EOLhyphen"/>ble of underſtanding what they learne and re<g ref="char:EOLhyphen"/>peat, this will prove nothing but a meer <hi>propha<g ref="char:EOLhyphen"/>nation of the Name of God,</hi> an Ordinance of his being hereby miſuſed, whilſt it is performed by <hi>rote</hi> in a perfunctory way.</p>
+            <p>
+               <hi>Anſw.</hi> To which I <hi>anſwer.</hi>
+            </p>
+            <p n="1">1. The <hi>intellectualls</hi> of ſome children are very <hi>early ripe,</hi> and ſome things in Religion are ſo plain, that they may eaſily be underſtood. The ſpeeches that have dropt from ſome children at four, five, ſix, years old, do ſufficiently demon<g ref="char:EOLhyphen"/>ſtrate how early ſome truths have been appre<g ref="char:EOLhyphen"/>hended by the underſtandings, yea, and wrought upon the conſciences of little ones.</p>
+            <p n="2">2. This Objection ſeems to croſſe legges with the <hi>expreſſe Word</hi> of God, which commends <hi>Timothy</hi> for acquaintance with the Scriptures even from his long-coats and cradle, 2 <hi>Tim.</hi> 3. 15.</p>
+            <p n="3">
+               <pb n="34" facs="tcp:65841:25"/>3. This holds as ſtrongly againſt <hi>inſtructing elder perſons known to be wicked and prophane,</hi> be<g ref="char:EOLhyphen"/>cauſe there is more likelyhood that they will prophane thoſe holy things. And yet no Mini<g ref="char:EOLhyphen"/>ſter is to take the prophaneneſſe of his hearers as a ſufficient diſcharge from his duty, in <hi>instruct<g ref="char:EOLhyphen"/>ing even thoſe that oppoſe themſelves, to ſee if God will at any time give them repentance to the ac<g ref="char:EOLhyphen"/>knowledgement of the truth, 2 Tim.</hi> 2. 25.</p>
+            <p n="4">4. It is very unlikely, that <hi>thoſe children</hi> who cryed <hi>Hoſanna</hi> to our Saviour Chriſt, <hi>Mat. 21. 16, 17. underſtood</hi> what they cryed, but (it is likely) cryed with the multitude<g ref="char:punc">▪</g> for they were ſuch for whom our Saviour makes an <hi>Apology</hi> under the name of <hi>babes and ſucklings,</hi> and yet he received and juſtified them in ſo doing. Had our Saviour been of the objectors minde, he would have <hi>blamed</hi> them with the Phariſees, rather then <hi>juſtified</hi> th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m.</p>
+            <p n="5">5. There is more danger of their prophana<g ref="char:EOLhyphen"/>tion of the Name of God for want of inſtructi<g ref="char:EOLhyphen"/>on. We ſhould not (I beleeve) hear ſo many <hi>oaths,</hi> and <hi>curſes,</hi> and <hi>idle exclamations</hi> upon the <hi>Name of the Lord,</hi> as we daily do, even from thoſe that can ſcarce <hi>ſpeake</hi> or <hi>goe</hi> alone, were they taught betimes that theſe things are wicked and ſinfull. They might be kept from theſe <hi>prophane practiſes</hi> very ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly by the fear of <hi>hell,</hi> as well as from <hi>cry<g ref="char:EOLhyphen"/>ing,</hi> by <hi>bug beares,</hi> &amp;c. did men poſſeſſe them as early with <hi>true</hi> feares, as they doe with <hi>vaine</hi> ones.</p>
+            <p n="6">6. A little, a very little underſtanding will r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder a <hi>duty p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſable</hi> and <hi>currant</hi> from a little one, when a grea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er meaſure will not ſuffice to
+<pb n="35" facs="tcp:65841:25"/> the performances of <hi>elder</hi> perſons. We our ſelves indulge a great many childiſh faylings in the duty we expect from our little children, which we will not a like beare withall from greater boyes. And God <hi>accepting according to what wee have, and not according to what we have not,</hi> gives us ſufficient ground to believe he walks by the ſame rule.</p>
+            <p n="7">7. What they learn then, though but by rote, may <hi>ſtick in their memories,</hi> and <hi>work upon their conſciences</hi> many years after. And how knoweſt thou, O man, but the light thou didſt kindle in the mind of thy child, may be <hi>renewing</hi> (at leaſt) <hi>reſtraining</hi> light to him many years after thou art gone?</p>
+            <p>
+               <hi>Object.</hi> It is farther objected, That <hi>our way of catechizing</hi> is a <hi>forme,</hi> the asking ſome ſet Queſti<g ref="char:EOLhyphen"/>ons, and receiving ſet Anſwers to them; and the Objectors think all <hi>Formes</hi> unlawful.</p>
+            <p>
+               <hi>Anſw.</hi> 1. But what thinke theſe men of a <hi>Forme of ſound words, 2 Tim.</hi> 1. 13. is that alſo unlawfull? and if it be not, then either our formes of Catechiſme-Queſtions and Anſwers muſt be made up of <hi>unſound words,</hi> (which if they ſay, they muſt prove too) or elſe that they are a form will no way (to the judgement of Gods Spirit) prejudice them.</p>
+            <p n="2">2. So were the <hi>ten Commandements, Deut.</hi> 6. 6, 7. and yet God commands the Jewes, <hi>to teach them their children, and whet them diligently upon them.</hi> Surely we need not feare teaching our children the <hi>ten Commandements,</hi> when God him<g ref="char:EOLhyphen"/>ſelfe appoints them their <hi>Leſſon,</hi> we that are but his <hi>uſhers,</hi> may ſafely require their learning it.</p>
+            <pb n="36" facs="tcp:65841:26"/>
+            <p>3. That our Catechiſmes are thus a forme, doth moſt anſwer <hi>one main end of Catechizing,</hi> which is to teach men and women from their Infancy to think and ſpeak the <hi>ſame things</hi> which is neceſſary in a well-ordered Church; thoſe perſons being much endangered to loſe <hi>orthodox notions,</hi> who are ignorant of <hi>orthodox expreſſi<g ref="char:EOLhyphen"/>ons</hi>
+            </p>
+            <p>And thus much ſhall ſerve to anſwer ths <hi>elder children</hi> in their weak objections, I meane thoſe <hi>parents</hi> who throw away the Ordinance of God upon ſuch <hi>childiſh</hi> exceptions.</p>
+            <p>I now come to remove the hinderances on the behalfe of the <hi>younger ones,</hi> by which they are ſcared from giving their due attendance here<g ref="char:EOLhyphen"/>upon.</p>
+            <p>
+               <hi>Object.</hi> And firſt <hi>Shamefacedneſſe</hi> is pleaded <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſome, who pretend they can, and would willingly anſwer in <hi>private,</hi> but they have not confidence enough to appear in <hi>publick.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Art thou indeed ſhame-faced? the mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e need haſt thou <hi>reſalutely</hi> to undertake the work, by how much thou haſt beyond others a <hi>temptation</hi> in thy very <hi>conſtitution</hi> againſt it. One part of our ſpirituall watchfulneſſe, and dayly m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtification, conſiſts in finding out, and over<g ref="char:EOLhyphen"/>comming <hi>conſtitution-ſins.</hi>
+            </p>
+            <p n="2">2. Many that pretend <hi>Shamefacedneſſe</hi> in do<g ref="char:EOLhyphen"/>ing <hi>good,</hi> quickly enough grow <hi>paſt ſhame</hi> in do<g ref="char:EOLhyphen"/>ing <hi>evill;</hi> and 'tis naturall to moſt men by means or original corruption, to bluſh more in doing their <hi>duty,</hi> then in acting <hi>ſin.</hi>
+            </p>
+            <p n="3">3. <hi>Shame</hi> belongs to <hi>ſin;</hi> ſhame and ſin were both born i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to the world in a day. <hi>Adam</hi> knew
+<pb n="37" facs="tcp:65841:26"/> no <hi>ſhame</hi> till ſin had made him <hi>naked;</hi> ſhame of duty is a ſinfull ſhame. If this be an Ordinance of Chriſt (as I have proved it is) then to be a<g ref="char:EOLhyphen"/>ſhamed of it will (I doubt) appeare a <hi>deniall of Chriſt</hi> (in a ſort) at the laſt day, for being <hi>aſhamed of Chriſt,</hi> i. e. in any truth, duty, or way of his, is ſo interpreted (<hi>Matth. 10. 33. Marke</hi> 8. 38. compared) and then take heed leſt Chriſt be <hi>aſhamed of thee before God the Father, and his holy Angels.</hi>
+            </p>
+            <p n="4">4. Thou art offended thou art call'd upon for a <hi>publick account.</hi> But conſider,</p>
+            <p n="1">1. That many <hi>elder perſons</hi> may learne by this means who are not able to read at home.</p>
+            <p n="2">2. That thoſe that <hi>can,</hi> and <hi>do not,</hi> may by their readineſſe be ſhamed into ſome endeavours leſt they be out-gone by children in ſo neceſſary and weighty a knowledge.</p>
+            <p n="3">3. That thou wilt one day have occaſion to claime the <hi>priviledge of Communion</hi> with the Church in higher Ordinances, and canſt thou think it reaſonable that the Church ſhould give thee <hi>the right hand of fellowſhip,</hi> who haſt by no publick ſatisfactory evidence declared thy ſelfe to be a chriſtian? it may be they know tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> art baptized, (but for any thing farther that they know of thee) thou mayſt have renounced thy Baptiſme and Chriſtianity, before thou commeſt to claime thoſe privileges, and accounteſt them meere matters of forme, as too many now doe.</p>
+            <p>
+               <hi>Object.</hi> A ſecond objection of ſome is this; They ſhall be <hi>ſingular</hi> in reviving an <hi>unuſuall exerciſe,</hi> they be <hi>gazed</hi> upon and <hi>laught</hi> at, by
+<pb n="38" facs="tcp:65841:27"/> their followes, who out of prophane principles keep away</p>
+            <p>
+               <hi>Anſw.</hi> To which I anſwer.</p>
+            <p n="1">1. But <hi>child</hi> conſider; Thou ſhouldſt not be diſcouraged in the way to heaven, though thou walk it <hi>alone;</hi> will it be any trouble to a man when he is gotten thither, that he had no com<g ref="char:EOLhyphen"/>pany upon the way.</p>
+            <p n="2">2. 'Tis a great <hi>honor</hi> to <hi>be alone in a good way,</hi> nay, the greateſt honour that can be, to forſake all <hi>company</hi> for <hi>Chriſt</hi> and <hi>duties</hi> ſake. One <hi>Lot</hi> in <hi>Sodom,</hi> one <hi>Noah</hi> in the old world, kept up the fear and ſervice of God, and ſee how Scrip<g ref="char:EOLhyphen"/>ture honours them for it; ſo <hi>Elijab</hi> (to his ſee<g ref="char:EOLhyphen"/>ming) was the onely man left that owned the truth of God in <hi>Ababs</hi> dayes, and yet he was not diſcouraged for want of company.</p>
+            <p n="3">3. The men of this world are not diſcoura<g ref="char:EOLhyphen"/>ged but encouraged rather, if they drive the <hi>only trade</hi> in their profeſſion, in the places wherein they live: men are willing to <hi>grow riob alone,</hi> and why not to grow <hi>rich</hi> in <hi>grace</hi> and ſaving <hi>knowledge</hi> alone?</p>
+            <p n="4">4. It may be thou needeſt not goe <hi>alone,</hi> if thou hadſt once begun, others by thy example may be induced to <hi>follow;</hi> they are loath to <hi>begin</hi> as well as thou; they doe not ſo much doubt they ſhall be <hi>alone,</hi> as draw back from being <hi>firſt.</hi> Now if thou canſt in a good way be a leader to others, it is farre more honoura<g ref="char:EOLhyphen"/>ble.</p>
+            <p n="5">5. Thou art affraid thou ſhalt be <hi>gazed upon</hi> and <hi>laught at;</hi> but conſider, that it is the uſuall lot of the <hi>beſt</hi> to be ſo handled; ſo in <hi>Iſaiabs</hi> time
+<pb n="39" facs="tcp:65841:27"/> the Saints were looked on as <hi>fignes and wonders, Iſa.</hi> 8. 18.</p>
+            <p n="6">6. 'Twill be a more geievous thing to <hi>them</hi> to be (one day) <hi>laught at by God,</hi> then it is now to <hi>you</hi> to be <hi>laught at by them;</hi> and this will here after return into their boſomes, <hi>Pro.</hi> 1. 26. 3. 34.</p>
+            <p n="7">7. Uſe the means, and get the <hi>ſtart</hi> of them in ſaving knowledge, and thou wilt diſcerne them to be farre more <hi>ridiculous.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> It may be thou mayeſt object, that thou art competently <hi>growen in yeares,</hi> thou lookeſt towards <hi>man</hi> or <hi>woman,</hi> and this is an exerciſe that is more proper for <hi>little chil<g ref="char:EOLhyphen"/>dren.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Alas! how many be there that thinke it too <hi>childiſh</hi> a thing to be <hi>eatechized,</hi> who by the help of that Ordinance, are out<g ref="char:EOLhyphen"/>ſtripped in knowledge by thoſe <hi>children</hi> whom they condemn</p>
+            <p n="2">2. If thy <hi>knowledge</hi> be not <hi>proportionable</hi> to thy <hi>age</hi> and <hi>growth,</hi> thou art yet a <hi>child in underſtan<g ref="char:EOLhyphen"/>ding,</hi> and haſt more cauſe to be aſhamed thereof, then of any meanes wherein thou mayeſt be im<g ref="char:EOLhyphen"/>proved therein</p>
+            <p n="3">3. Look upon the <hi>examples,</hi> before argued, of the <hi>primitive Fathers,</hi> who continued under this Ordinance for divers yeares after they had at<g ref="char:EOLhyphen"/>tained to mans eſtate, and thought it no diſ<g ref="char:EOLhyphen"/>credit to ſtand among the <hi>catechized,</hi> till they were called forth to be <hi>teachers</hi> of others</p>
+            <p n="4">4. Take heed of <hi>pride and ſelf-conceit,</hi> there being no greater enemy to the attainment of ſpirituall knowledge, then a conceit that men
+<pb n="40" facs="tcp:65841:28"/> have attained enough already, <hi>Prov.</hi> 26. 12.</p>
+            <p>Thus have I anſwered the moſt common and ordinary objections, and excuſes upon which this uſefull Ordinance, in theſe dayes of liberty, is laid aſide. The Lord grant that theſe plain lines may ſo far prevaile (through his bleſſing) for the reſtitution thereof to this Church and Nation; that in ſtead of that <hi>notionall brain</hi>
+               <g ref="char:EOLhyphen"/>knowledge ſo much in faſhion, we may ſee a <hi>practicall heart</hi> knowledge advanced, and that with ſo much improvement in old and young, that it may <hi>cover the Land as the waters cover the Sea,</hi> untill we all arrive at that perfection <hi>truely,</hi> which ſome <hi>groundleſſely</hi> conceit they have at<g ref="char:EOLhyphen"/>tained already, that we ſhall <hi>need</hi> no more to <hi>ſpeak every one to his neighbour, and to his brother, ſaying, know the Lord; but that all may know him from the greateſt to the leaſt, being all tought of God.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:65841:28"/>
+            <opener>
+               <hi>Reader,</hi> before thou read, do the Author the right, and thy ſelf the courtefie, to correct theſe materiall faults, and paſſe by litterall ones.</opener>
+            <head>ERRATA.</head>
+            <p>In the Dialogue, in the Epiſtle, in ſome copies, <hi>p.</hi> 4. dele, of all ages. <hi>p. 8. l.</hi> 22. r. faction. <hi>p. 9. l.</hi> 4. <hi>p. 15. l. 3. p. 20. l. 4. p. 28. l. 22. p. 32. l. 28. p. 34. l.</hi> 17. r. their, for your. <hi>p. 9. l.</hi> 18. r: conſider. <hi>l.</hi> 24. r. the con<g ref="char:EOLhyphen"/>verts, <hi>p. 13. l.</hi> 28. blot out more. <hi>p. 20. l.</hi> 3. r. wit. <hi>p. 21. l.</hi> 3. r. meere. <hi>l.</hi> 4, 5. blot out the firſt at moſt, <hi>p. 27. l.</hi> 9. r. thence. <hi>p. 29. l,</hi> 5. r. to, for by. <hi>p 39. l.</hi> 3. put a comma after new, <hi>p. 41. l.</hi> 6. r. roote. <hi>p. 24. l.</hi> 15. r. art, and <hi>p. 49. l.</hi> 9. r. he that. <hi>p. 52. l.</hi> 14. r. Anabaptiſme. <hi>p. 53. l.</hi> 24. r, ones. <hi>p. 54 l.</hi> 12, for him, r. an Infant. <hi>p. 62. l.</hi> 10. r. covenant-relation. <hi>p. 74. l.</hi> 6. r. root. In the Sermon of Catechizing, In the Epiſtle, <hi>p. 7. l.</hi> 21. r. hear, <hi>p. 9. l.</hi> 10. r. notions. In the Sermon it ſelfe, <hi>p. 3. l.</hi> 3. blot out the full point. <hi>p. 7. l.</hi> 7. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>p. 8. l.</hi> 20. read the Hebrew after old. <hi>p. 14. l.</hi> 6. r. prov. 23. <hi>l.</hi> 14. r. word for way, <hi>p. 16. l.</hi> 10. r. chari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y. <hi>p.</hi> 18. read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65841:29"/>
+            <pb facs="tcp:65841:29"/>
+            <head>An Epiſtle to the <hi>Readers</hi> of this Treatiſe, thoſe of my owne Flock, in <hi>Reading</hi> in <hi>Berk-ſhire.</hi>
+            </head>
+            <opener>
+               <salute>Chriſtian Reader:</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Addreſſe my ſelfe to thee in the threſhold of thir Treatiſe, with a <hi>twofold requeſt,</hi> before thou ſpend thy cenſure upon it. The <hi>one</hi> is, that thou <hi>read,</hi> and the <hi>other</hi> is, that thou <hi>pray over</hi> this little Treatiſe. Whatever thy judgment be, I hope it will not deny me berein, did it concerne thee leſse, then (in my apprebenſion) this doth</p>
+            <p>The reaſon why I deſire the <hi>firſt</hi> of thee, is becauſe I know many good books <hi>ſuffer</hi> under the unjuſt ſentence of prejulice, and diſaffection, before they are <hi>read.</hi> It being motivee nough to moſt engaged perſons, on all bands, to condome a booke; (that its <hi>Title page</hi> ſpeakes not of their ſide:) And the <hi>ſecond,</hi> I have this farther reaſon to beg at thy bands; becauſe I know an <hi>Unpraying Spirit</hi> is very unſit to adven<g ref="char:EOLhyphen"/>ture upon the ſtudy of any <hi>Practicall Subject</hi> whatſoever. Practicall Truths alwayes carry ſome thing in them which goes againſt the graine of an beare not <hi>taught of God,</hi> and managed by his holy Spirit</p>
+            <p>If I can but obtaine theſe <hi>two</hi> things of thee, I douht not my ſuceſſe in this weake attempt towards thy ſatisfaction and ſettlement, in the practiſe and improvemen of the Ordi<g ref="char:EOLhyphen"/>nance berein treated of</p>
+            <p>And next, (ſuppoſing that I have obtained my twofold re<g ref="char:EOLhyphen"/>queſt) I ſhall only adde a two fold <hi>advertiſement</hi> to thee con<g ref="char:EOLhyphen"/>cerning the following Treatiſe</p>
+            <p>
+               <hi>Firſt.</hi> That I compoſe it in a <hi>Dialogue-way</hi> for two rea<g ref="char:EOLhyphen"/>ſons</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
